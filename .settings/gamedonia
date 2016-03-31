@@ -1,0 +1,653 @@
+{
+	"facebooksettings": null,
+	"environment": "development",
+	"gitbranch": null,
+	"kongregateApiKey": null,
+	"pushsettings": 
+	{
+		"apnsPassword": null,
+		"androidPackageName": "testPackage",
+		"apnsPK12": null,
+		"androidGCMApiKey": "testKey"
+	},
+
+	"realtimesettings": 
+	{
+		"applyHardLimit": false,
+		"limits": 
+		{
+			"ccu": 
+			{
+				"limit": 50,
+				"limitType": 1
+			},
+
+			"roomMessages": 
+			{
+				"limit": 1500,
+				"limitType": 1
+			}
+		}
+	},
+
+	"translation": 
+	{
+		
+	},
+
+	"googlesettings": null,
+	"collection": 
+	{
+		"prova3": 
+		{
+			"mode": 23,
+			"is_master": false,
+			"name": "prova3"
+		},
+
+		"rooms": 
+		{
+			"mode": 23,
+			"is_master": false,
+			"name": "rooms"
+		},
+
+		"prova2": 
+		{
+			"mode": 23,
+			"is_master": false,
+			"name": "prova2"
+		},
+
+		"prova5": 
+		{
+			"mode": 23,
+			"is_master": false,
+			"name": "prova5"
+		},
+
+		"achievementmaster": 
+		{
+			"mode": 23,
+			"is_master": false,
+			"name": "achievementmaster"
+		},
+
+		"prova4": 
+		{
+			"mode": 23,
+			"is_master": false,
+			"name": "prova4"
+		},
+
+		"prova6": 
+		{
+			"mode": 23,
+			"is_master": false,
+			"name": "prova6"
+		},
+
+		"camelcasecollection": 
+		{
+			"mode": 23,
+			"is_master": false,
+			"name": "camelcasecollection"
+		},
+
+		"saga_cities": 
+		{
+			"mode": 23,
+			"is_master": false,
+			"name": "saga_cities"
+		},
+
+		"23fsdddfsadfsdfs": 
+		{
+			"mode": 22,
+			"is_master": false,
+			"name": "23fsdddfsadfsdfs"
+		},
+
+		"test1": 
+		{
+			"mode": 33,
+			"is_master": false,
+			"name": "test1"
+		},
+
+		"movies": 
+		{
+			"mode": 23,
+			"is_master": false,
+			"name": "movies"
+		},
+
+		"jjjaaaa": 
+		{
+			"mode": 22,
+			"is_master": false,
+			"name": "jjjaaaa"
+		},
+
+		"saga_chapters": 
+		{
+			"mode": 33,
+			"is_master": false,
+			"name": "saga_chapters"
+		},
+
+		"games": 
+		{
+			"mode": 23,
+			"is_master": false,
+			"name": "games"
+		},
+
+		"test_rep": 
+		{
+			"mode": 33,
+			"is_master": false,
+			"name": "test_rep"
+		},
+
+		"apm": 
+		{
+			"mode": 23,
+			"is_master": false,
+			"name": "apm"
+		},
+
+		"dscadfsefweregr": 
+		{
+			"mode": 22,
+			"is_master": false,
+			"name": "dscadfsefweregr"
+		},
+
+		"rooms2": 
+		{
+			"mode": 23,
+			"is_master": false,
+			"name": "rooms2"
+		},
+
+		"saga_trips": 
+		{
+			"mode": 23,
+			"is_master": false,
+			"name": "saga_trips"
+		},
+
+		"externalnotifications": 
+		{
+			"mode": 23,
+			"is_master": false,
+			"name": "externalnotifications"
+		},
+
+		"col334": 
+		{
+			"mode": 33,
+			"is_master": false,
+			"name": "col334"
+		},
+
+		"testsapi": 
+		{
+			"mode": 23,
+			"is_master": false,
+			"name": "testsapi"
+		},
+
+		"aaaaaa": 
+		{
+			"mode": 22,
+			"is_master": false,
+			"name": "aaaaaa"
+		},
+
+		"col333": 
+		{
+			"mode": 22,
+			"is_master": false,
+			"name": "col333"
+		},
+
+		"asdsdasdsaas": 
+		{
+			"mode": 23,
+			"is_master": false,
+			"name": "asdsdasdsaas"
+		},
+
+		"leaderboard": 
+		{
+			"mode": 23,
+			"is_master": false,
+			"name": "leaderboard"
+		},
+
+		"entities": 
+		{
+			"mode": 23,
+			"is_master": false,
+			"name": "entities"
+		}
+	},
+
+	"lastModified": 1455792047972,
+	"script": 
+	{
+		"function-externalnotificationstest": 
+		{
+			"filename": "externalnotificationstest.js",
+			"name": "externalnotificationstest",
+			"script_id": null,
+			"md5_checksum": "bd0877a619ce5a4e30a0c5f94e460834",
+			"collection": "",
+			"trigger": "function"
+		},
+
+		"postsave-_users": 
+		{
+			"filename": "postuser.js",
+			"name": "postuser",
+			"script_id": null,
+			"md5_checksum": "655e269a73bdc547934814617f335725",
+			"collection": "_users",
+			"trigger": "postsave"
+		},
+
+		"postsave-prova6": 
+		{
+			"filename": "provasispost.js",
+			"name": "provasispost",
+			"script_id": null,
+			"md5_checksum": "d7b1505220fe6f070a4ed8f80a69a58b",
+			"collection": "prova6",
+			"trigger": "postsave"
+		},
+
+		"function-recursive": 
+		{
+			"filename": "recursive.js",
+			"name": "recursive",
+			"script_id": null,
+			"md5_checksum": "e3dc6360cb08bea69d218d8bb734da20",
+			"collection": "",
+			"trigger": "function"
+		},
+
+		"util-include-example2": 
+		{
+			"filename": "require-example-include2.js",
+			"name": "include-example2",
+			"script_id": null,
+			"md5_checksum": "668d2f1fd73b6b32c169a480da9e97a6",
+			"collection": null,
+			"trigger": "util"
+		},
+
+		"postsave-prova4": 
+		{
+			"filename": "postprovaquatre.js",
+			"name": "postprovaquatre",
+			"script_id": null,
+			"md5_checksum": "6ed2c04d33dc18deb06bbe6863f0f55c",
+			"collection": "prova4",
+			"trigger": "postsave"
+		},
+
+		"postsave-prova3": 
+		{
+			"filename": "posttres.js",
+			"name": "posttres",
+			"script_id": null,
+			"md5_checksum": "a8a510ed63f05dfba58231b06773ab46",
+			"collection": "prova3",
+			"trigger": "postsave"
+		},
+
+		"postsave-prova2": 
+		{
+			"filename": "postprovados.js",
+			"name": "postprovados",
+			"script_id": null,
+			"md5_checksum": "392b8cc660b5422426884ead7f9fb60b",
+			"collection": "prova2",
+			"trigger": "postsave"
+		},
+
+		"job-insertstuff": 
+		{
+			"filename": "insertStuff.js",
+			"name": "insertstuff",
+			"script_id": null,
+			"md5_checksum": "1f8493bafe5358d7898cb4382fcb5632",
+			"collection": "",
+			"trigger": "job"
+		},
+
+		"function-insertstuff": 
+		{
+			"filename": "insertstuff.js",
+			"name": "insertstuff",
+			"script_id": null,
+			"md5_checksum": "1f8493bafe5358d7898cb4382fcb5632",
+			"collection": null,
+			"trigger": "function"
+		},
+
+		"function-testscriptdos": 
+		{
+			"filename": "testscriptdos.js",
+			"name": "testscriptdos",
+			"script_id": null,
+			"md5_checksum": "a92173d152e563ce3c00dce17b336764",
+			"collection": "",
+			"trigger": "function"
+		},
+
+		"presave-prova5": 
+		{
+			"filename": "provacinc.js",
+			"name": "provacinc",
+			"script_id": null,
+			"md5_checksum": "3c7333e9e74b72942b1344e1ed9fdbef",
+			"collection": "prova5",
+			"trigger": "presave"
+		},
+
+		"function-pluztest": 
+		{
+			"filename": "pluztest.js",
+			"name": "pluztest",
+			"script_id": null,
+			"md5_checksum": "2ac6c5f788eab06c8819fb591caa57d4",
+			"collection": "",
+			"trigger": "function"
+		},
+
+		"presave-prova4": 
+		{
+			"filename": "preprovaquatre.js",
+			"name": "preprovaquatre",
+			"script_id": null,
+			"md5_checksum": "b431ab22bbe2f0eb06981a3e20819d0a",
+			"collection": "prova4",
+			"trigger": "presave"
+		},
+
+		"job-testjob": 
+		{
+			"filename": "testjob-with-require.js",
+			"name": "testjob",
+			"script_id": null,
+			"md5_checksum": "b0bae76cdc11bb8a189b4e3416dcbc44",
+			"collection": null,
+			"trigger": "job"
+		},
+
+		"function-testinsertentity": 
+		{
+			"filename": "testinsertentity.js",
+			"name": "testinsertentity",
+			"script_id": null,
+			"md5_checksum": "7e2c2c48f819175875a3de088e0b7f31",
+			"collection": null,
+			"trigger": "function"
+		},
+
+		"job-samplescript": 
+		{
+			"filename": "samplescript.js",
+			"name": "samplescript",
+			"script_id": null,
+			"md5_checksum": "676a63bf0f48aab77974e5ca50f1264c",
+			"collection": null,
+			"trigger": "job"
+		},
+
+		"util-include-example": 
+		{
+			"filename": "require-example-include.js",
+			"name": "include-example",
+			"script_id": null,
+			"md5_checksum": "da5b36381162e2411157dbb07208b96b",
+			"collection": null,
+			"trigger": "util"
+		},
+
+		"job-examplejob": 
+		{
+			"filename": "examplejob.js",
+			"name": "examplejob",
+			"script_id": null,
+			"md5_checksum": "a377470e558139e54d999dc2b627c5e7",
+			"collection": null,
+			"trigger": "job"
+		},
+
+		"function-testerrorfunction": 
+		{
+			"filename": "testerrorfunction.js",
+			"name": "testerrorfunction",
+			"script_id": null,
+			"md5_checksum": "edfa068b12454ed97cfbb96a847bd226",
+			"collection": "",
+			"trigger": "function"
+		},
+
+		"util-utils": 
+		{
+			"filename": "utils.js",
+			"name": "utils",
+			"script_id": null,
+			"md5_checksum": "a3ca2ebd84878c1b0fea7c7db751db57",
+			"collection": "",
+			"trigger": "util"
+		},
+
+		"function-scriptone": 
+		{
+			"filename": "scriptone.js",
+			"name": "scriptone",
+			"script_id": null,
+			"md5_checksum": "a042f5623d7a1148f2cac91fcaef6155",
+			"collection": "",
+			"trigger": "function"
+		},
+
+		"function-testuser": 
+		{
+			"filename": "testuser.js",
+			"name": "testuser",
+			"script_id": null,
+			"md5_checksum": "5787d2258b0195337ff8577213a214d0",
+			"collection": null,
+			"trigger": "function"
+		},
+
+		"function-testarraysyntax": 
+		{
+			"filename": "testarraysyntax.js",
+			"name": "testarraysyntax",
+			"script_id": null,
+			"md5_checksum": "4e02057f1c2fbf6f2d0e5465eb1ad992",
+			"collection": "",
+			"trigger": "function"
+		},
+
+		"presave-camelcasecollection": 
+		{
+			"filename": "precc.js",
+			"name": "precc",
+			"script_id": null,
+			"md5_checksum": "4cb543a8c5a393417516f535de30d60f",
+			"collection": "camelcasecollection",
+			"trigger": "presave"
+		},
+
+		"function-testscript": 
+		{
+			"filename": "testscript.js",
+			"name": "testscript",
+			"script_id": null,
+			"md5_checksum": "6b5a559048ffef13c94eb52c156c59e0",
+			"collection": "",
+			"trigger": "function"
+		},
+
+		"function-insertdate2": 
+		{
+			"filename": "data_api.js",
+			"name": "insertdate2",
+			"script_id": null,
+			"md5_checksum": "614e3af7c5384128ef9dfb4da39ffae3",
+			"collection": null,
+			"trigger": "function"
+		},
+
+		"function-testjob3": 
+		{
+			"filename": "testjob3.js",
+			"name": "testjob3",
+			"script_id": "1",
+			"md5_checksum": "adasdasdasdasd",
+			"collection": null,
+			"trigger": "function"
+		},
+
+		"function-getopponents": 
+		{
+			"filename": "getopponents.js",
+			"name": "getopponents",
+			"script_id": null,
+			"md5_checksum": "5e14eac25c61843f40d9712835ccab7c",
+			"collection": "",
+			"trigger": "function"
+		},
+
+		"presave-_users": 
+		{
+			"filename": "preuser.js",
+			"name": "preuser",
+			"script_id": null,
+			"md5_checksum": "b377d9bd251a71d20e8431765ed0a158",
+			"collection": "_users",
+			"trigger": "presave"
+		},
+
+		"function-testnouupdate": 
+		{
+			"filename": "testnouupdate.js",
+			"name": "testnouupdate",
+			"script_id": null,
+			"md5_checksum": "916c73bf03666b91e98f6c3a8500a006",
+			"collection": "",
+			"trigger": "function"
+		},
+
+		"function-insertdate": 
+		{
+			"filename": "insertDate.js",
+			"name": "insertdate",
+			"script_id": null,
+			"md5_checksum": "ece42adea4a32b87a22daa35e7adeabf",
+			"collection": null,
+			"trigger": "function"
+		},
+
+		"job-testjob3": 
+		{
+			"filename": "testjob3.js",
+			"name": "testjob3",
+			"script_id": null,
+			"md5_checksum": "a31adbfb88a329e2a6b358253902f9a5",
+			"collection": null,
+			"trigger": "job"
+		},
+
+		"presave-leaderboard": 
+		{
+			"filename": "preleaderboard.js",
+			"name": "preleaderboard",
+			"script_id": null,
+			"md5_checksum": "701afd86c86d5da98613f37ee0d0acef",
+			"collection": "leaderboard",
+			"trigger": "presave"
+		},
+
+		"function-testbulk": 
+		{
+			"filename": "testbulk.js",
+			"name": "testbulk",
+			"script_id": null,
+			"md5_checksum": "1866e7e13cc4854fececffb5297992d1",
+			"collection": "",
+			"trigger": "function"
+		},
+
+		"job-testjob4": 
+		{
+			"filename": "testjob4.js",
+			"name": "testjob4",
+			"script_id": null,
+			"md5_checksum": "e54d0111d8a30511dc89aa8fc68ee34f",
+			"collection": "",
+			"trigger": "job"
+		},
+
+		"function-dosmil": 
+		{
+			"filename": "dosmil.js",
+			"name": "dosmil",
+			"script_id": null,
+			"md5_checksum": "0c7fd6c8ea4149bfc3993a2cd6d47309",
+			"collection": "",
+			"trigger": "function"
+		},
+
+		"job-testuser": 
+		{
+			"filename": "testuser.js",
+			"name": "testuser",
+			"script_id": null,
+			"md5_checksum": "5787d2258b0195337ff8577213a214d0",
+			"collection": "",
+			"trigger": "job"
+		},
+
+		"function-performance": 
+		{
+			"filename": "performance.js",
+			"name": "performance",
+			"script_id": null,
+			"md5_checksum": "ece42adea4a32b87a22daa35e7adeabf",
+			"collection": null,
+			"trigger": "function"
+		},
+
+		"function-testscripttres": 
+		{
+			"filename": "testscripttres.js",
+			"name": "testscripttres",
+			"script_id": null,
+			"md5_checksum": "210bf11b5272916cc02bdba2e3b2870b",
+			"collection": "",
+			"trigger": "function"
+		},
+
+		"function-sendpush": 
+		{
+			"filename": "sendpush.js",
+			"name": "sendpush",
+			"script_id": null,
+			"md5_checksum": "85b02c50bb8acdd55c0bfe990ac25671",
+			"collection": "",
+			"trigger": "function"
+		}
+	},
+
+	"paypalsettings": null
+}

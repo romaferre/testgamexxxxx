@@ -1,0 +1,39 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+  "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <title>Jasmine Test Runner</title>
+  <link rel="stylesheet" type="text/css" href="lib/jasmine-1.0.1/jasmine.css"></link>
+  <script type="text/javascript" src="lib/jasmine-1.0.1/jasmine.js"></script>
+  <script type="text/javascript" src="lib/jasmine-1.0.1/jasmine-html.js"></script>
+  <script type="text/javascript" src="lib/jasmine.console_reporter.js"></script>
+  <script type="text/javascript" src="lib/jasmine.junit_reporter.js"></script>
+
+	<script src="http://crypto-js.googlecode.com/svn/tags/3.1.2/build/rollups/md5.js"></script>
+	<script src="http://crypto-js.googlecode.com/svn/tags/3.1.2/build/rollups/hmac-sha1.js"></script>
+	<script src="http://crypto-js.googlecode.com/svn/tags/3.1.2/build/components/enc-base64-min.js"></script>
+
+  <script type="text/javascript" src="lib/gamedonia/cookies.js"></script>
+  <script type="text/javascript" src="lib/gamedonia/uuid.js"></script>
+  <script type="text/javascript" src="lib/gamedonia/GamedoniaUtils.js"></script>
+  <script type="text/javascript" src="lib/gamedonia/gamedoniaRequest.js"></script>
+  <script type="text/javascript" src="lib/gamedonia/gamedoniaData.js"></script>
+  <script type="text/javascript" src="lib/gamedonia/gamedoniaScript.js"></script>
+  <script type="text/javascript" src="lib/gamedonia/gamedoniaUsers.js"></script>
+
+  <!-- include source files here... -->
+
+  <!-- include spec files here... -->
+  <script type="text/javascript" src="spec/GamedoniaExampleSpec.js"></script>
+
+</head>
+<body>
+
+<script type="text/javascript">
+  jasmine.getEnv().addReporter(new jasmine.ConsoleReporter());
+  jasmine.getEnv().addReporter(new jasmine.TrivialReporter());
+  jasmine.getEnv().execute();
+</script>
+
+</body>
+</html>
