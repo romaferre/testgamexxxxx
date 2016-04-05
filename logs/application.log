@@ -6316,3 +6316,57 @@ Loading file testPackage.package.require-example-include.js
 2016-03-30 17:04:50,440 - [INFO] - from application in play-akka.actor.default-dispatcher-2 
 Loading file testPackage.package.require-example-include2.js
 
+2016-04-01 17:12:06,321 - [INFO] - from play in Connect Thread 
+Application started (Prod)
+
+2016-04-01 17:12:06,400 - [INFO] - from play in Connect Thread 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-01 17:12:10,163 - [ERROR] - from play.nettyException in New I/O worker #1 
+Exception caught in Netty
+java.lang.OutOfMemoryError: PermGen space
+	at java.lang.ClassLoader.defineClass1(Native Method) ~[na:1.7.0_71]
+	at java.lang.ClassLoader.defineClass(ClassLoader.java:800) ~[na:1.7.0_71]
+	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142) ~[na:1.7.0_71]
+	at java.net.URLClassLoader.defineClass(URLClassLoader.java:449) ~[na:1.7.0_71]
+	at java.net.URLClassLoader.access$100(URLClassLoader.java:71) ~[na:1.7.0_71]
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:361) ~[na:1.7.0_71]
+	at java.net.URLClassLoader$1.run(URLClassLoader.java:355) ~[na:1.7.0_71]
+	at java.security.AccessController.doPrivileged(Native Method) ~[na:1.7.0_71]
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:354) ~[na:1.7.0_71]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:425) ~[na:1.7.0_71]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:358) ~[na:1.7.0_71]
+	at Routes$$anonfun$routes$1$$anonfun$applyOrElse$4$$anonfun$apply$4.apply(routes_routing.scala:181) ~[api-debugger-assembly-1.0.1.jar:na]
+	at Routes$$anonfun$routes$1$$anonfun$applyOrElse$4$$anonfun$apply$4.apply(routes_routing.scala:181) ~[api-debugger-assembly-1.0.1.jar:na]
+	at play.core.Router$HandlerInvokerFactory$$anon$13$$anon$14.call(Router.scala:217) ~[api-debugger-assembly-1.0.1.jar:1.0.1]
+	at play.core.Router$Routes$TaggingInvoker.call(Router.scala:464) ~[api-debugger-assembly-1.0.1.jar:1.0.1]
+	at Routes$$anonfun$routes$1$$anonfun$applyOrElse$4.apply(routes_routing.scala:181) ~[api-debugger-assembly-1.0.1.jar:na]
+	at Routes$$anonfun$routes$1$$anonfun$applyOrElse$4.apply(routes_routing.scala:180) ~[api-debugger-assembly-1.0.1.jar:na]
+	at play.core.Router$Routes$$anonfun$call$4.apply(Router.scala:336) ~[api-debugger-assembly-1.0.1.jar:1.0.1]
+	at play.core.Router$Routes$$anonfun$call$4.apply(Router.scala:336) ~[api-debugger-assembly-1.0.1.jar:1.0.1]
+	at scala.util.Either.fold(Either.scala:99) ~[api-debugger-assembly-1.0.1.jar:1.0.1]
+	at play.core.Router$Routes$class.call(Router.scala:336) ~[api-debugger-assembly-1.0.1.jar:1.0.1]
+	at Routes$.call(routes_routing.scala:17) ~[api-debugger-assembly-1.0.1.jar:na]
+	at Routes$$anonfun$routes$1.applyOrElse(routes_routing.scala:180) ~[api-debugger-assembly-1.0.1.jar:na]
+	at Routes$$anonfun$routes$1.applyOrElse(routes_routing.scala:152) ~[api-debugger-assembly-1.0.1.jar:na]
+	at scala.PartialFunction$Lifted.apply(PartialFunction.scala:218) ~[api-debugger-assembly-1.0.1.jar:1.0.1]
+	at scala.PartialFunction$Lifted.apply(PartialFunction.scala:214) ~[api-debugger-assembly-1.0.1.jar:1.0.1]
+	at play.core.Router$Routes$class.handlerFor(Router.scala:454) ~[api-debugger-assembly-1.0.1.jar:1.0.1]
+	at Routes$.handlerFor(routes_routing.scala:17) ~[api-debugger-assembly-1.0.1.jar:na]
+	at play.api.GlobalSettings$$anonfun$onRouteRequest$1$$anonfun$apply$1.apply(GlobalSettings.scala:128) ~[api-debugger-assembly-1.0.1.jar:1.0.1]
+	at play.api.GlobalSettings$$anonfun$onRouteRequest$1$$anonfun$apply$1.apply(GlobalSettings.scala:127) ~[api-debugger-assembly-1.0.1.jar:1.0.1]
+	at scala.Option.flatMap(Option.scala:170) ~[api-debugger-assembly-1.0.1.jar:1.0.1]
+	at play.api.GlobalSettings$$anonfun$onRouteRequest$1.apply(GlobalSettings.scala:126) ~[api-debugger-assembly-1.0.1.jar:1.0.1]
+
+2016-04-01 17:27:07,260 - [INFO] - from play in Connect Thread 
+Application started (Prod)
+
+2016-04-01 17:27:07,332 - [INFO] - from play in Connect Thread 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-01 17:27:08,943 - [INFO] - from application in play-akka.actor.default-dispatcher-4 
+Loading file folder/common.js
+
+2016-04-01 17:27:08,954 - [INFO] - from application in play-akka.actor.default-dispatcher-4 
+Loading file folder/commondos.js
+
