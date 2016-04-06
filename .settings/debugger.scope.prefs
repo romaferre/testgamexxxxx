@@ -4,5 +4,5 @@ gameId=de8e7bef-5f61-4c3f-8724-17b1ccb5cf47
 masterApiKey=6650117d-d1da-4ad3-903c-54bd2f1eadd8
 proxyPort=8181
 secret=751a5f58ede4e4590895b7fbc9509e0c
-structure=[{"name"\:"custom","collection"\:"","trigger"\:"function","filename"\:"custom.js","md5_checksum"\:"741071705eae332f3311ecc3586ffcc7","package_name"\:null,"local_package_name"\:null,"local_name"\:null},{"name"\:"commondos","collection"\:"","trigger"\:"util","filename"\:"commondos.js","md5_checksum"\:"523f7b6d2e9b67cf9ceed92c811de797","package_name"\:null,"local_package_name"\:null,"local_name"\:null},{"name"\:"customdos","collection"\:"","trigger"\:"function","filename"\:"customdos.js","md5_checksum"\:null,"package_name"\:null,"local_package_name"\:null,"local_name"\:null},{"name"\:"common","collection"\:"","trigger"\:"util","filename"\:"common.js","md5_checksum"\:"43b7289da8013df78cf053a88cf7b047","package_name"\:null,"local_package_name"\:null,"local_name"\:null}]
+structure=[{"name"\:"customdos","collection"\:"","trigger"\:"function","filename"\:"customdos.js","md5_checksum"\:null,"package_name"\:null,"local_package_name"\:null,"local_name"\:null}]
 url=http\://localhost\:8080/v1
