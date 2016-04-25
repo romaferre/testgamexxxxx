@@ -6370,3 +6370,1437 @@ Loading file folder/common.js
 2016-04-01 17:27:08,954 - [INFO] - from application in play-akka.actor.default-dispatcher-4 
 Loading file folder/commondos.js
 
+2016-04-06 13:40:59,901 - [INFO] - from play in Connect Thread 
+Application started (Prod)
+
+2016-04-06 13:40:59,986 - [INFO] - from play in Connect Thread 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-06 13:41:10,290 - [INFO] - from application in play-akka.actor.default-dispatcher-4 
+X-Gamedonia-ApiKey>>>>>>>ec546fd8-805a-48b0-beeb-3c00e568bcd4
+
+2016-04-06 13:41:10,292 - [INFO] - from application in play-akka.actor.default-dispatcher-4 
+Connection>>>>>>>Keep-Alive
+
+2016-04-06 13:41:10,293 - [INFO] - from application in play-akka.actor.default-dispatcher-4 
+Content-Length>>>>>>>0
+
+2016-04-06 13:41:10,294 - [INFO] - from application in play-akka.actor.default-dispatcher-4 
+Authorization>>>>>>>ZW1haWx8YXhhdWJldEBob3RtYWlsLmNvbXx0aGUtcGFzc3dvcmQ=
+
+2016-04-06 13:41:10,294 - [INFO] - from application in play-akka.actor.default-dispatcher-4 
+User-Agent>>>>>>>Apache-HttpClient/4.3.6 (java 1.5)
+
+2016-04-06 13:41:10,295 - [INFO] - from application in play-akka.actor.default-dispatcher-4 
+Host>>>>>>>localhost:8181
+
+2016-04-06 13:41:25,281 - [INFO] - from application in play-akka.actor.default-dispatcher-7 
+X-Gamedonia-ApiKey>>>>>>>ec546fd8-805a-48b0-beeb-3c00e568bcd4
+
+2016-04-06 13:41:25,282 - [INFO] - from application in play-akka.actor.default-dispatcher-7 
+Connection>>>>>>>Keep-Alive
+
+2016-04-06 13:41:25,282 - [INFO] - from application in play-akka.actor.default-dispatcher-7 
+Content-Length>>>>>>>0
+
+2016-04-06 13:41:25,283 - [INFO] - from application in play-akka.actor.default-dispatcher-7 
+Authorization>>>>>>>ZW1haWx8YXhhdWJldEBob3RtYWlsLmNvbXx0aGUtcGFzc3dvcmQ=
+
+2016-04-06 13:41:25,284 - [INFO] - from application in play-akka.actor.default-dispatcher-7 
+User-Agent>>>>>>>Apache-HttpClient/4.3.6 (java 1.5)
+
+2016-04-06 13:41:25,284 - [INFO] - from application in play-akka.actor.default-dispatcher-7 
+Host>>>>>>>localhost:8181
+
+2016-04-06 13:41:59,710 - [INFO] - from application in play-akka.actor.default-dispatcher-8 
+X-Gamedonia-ApiKey>>>>>>>ec546fd8-805a-48b0-beeb-3c00e568bcd4
+
+2016-04-06 13:41:59,712 - [INFO] - from application in play-akka.actor.default-dispatcher-8 
+Connection>>>>>>>Keep-Alive
+
+2016-04-06 13:41:59,713 - [INFO] - from application in play-akka.actor.default-dispatcher-8 
+Content-Length>>>>>>>0
+
+2016-04-06 13:41:59,713 - [INFO] - from application in play-akka.actor.default-dispatcher-8 
+Authorization>>>>>>>ZW1haWx8YXhhdWJldEBob3RtYWlsLmNvbXx0aGUtcGFzc3dvcmQ=
+
+2016-04-06 13:41:59,714 - [INFO] - from application in play-akka.actor.default-dispatcher-8 
+User-Agent>>>>>>>Apache-HttpClient/4.3.6 (java 1.5)
+
+2016-04-06 13:41:59,715 - [INFO] - from application in play-akka.actor.default-dispatcher-8 
+Host>>>>>>>localhost:8181
+
+2016-04-06 13:42:00,113 - [ERROR] - from application in play-akka.actor.default-dispatcher-3 
+Script 'test' not found
+
+2016-04-06 14:37:01,222 - [INFO] - from application in play-akka.actor.default-dispatcher-2 
+X-Gamedonia-ApiKey>>>>>>>ec546fd8-805a-48b0-beeb-3c00e568bcd4
+
+2016-04-06 14:37:01,223 - [INFO] - from application in play-akka.actor.default-dispatcher-2 
+Connection>>>>>>>Keep-Alive
+
+2016-04-06 14:37:01,224 - [INFO] - from application in play-akka.actor.default-dispatcher-2 
+Content-Length>>>>>>>0
+
+2016-04-06 14:37:01,225 - [INFO] - from application in play-akka.actor.default-dispatcher-2 
+Authorization>>>>>>>ZW1haWx8YXhhdWJldEBob3RtYWlsLmNvbXx0aGUtcGFzc3dvcmQ=
+
+2016-04-06 14:37:01,225 - [INFO] - from application in play-akka.actor.default-dispatcher-2 
+User-Agent>>>>>>>Apache-HttpClient/4.3.6 (java 1.5)
+
+2016-04-06 14:37:01,226 - [INFO] - from application in play-akka.actor.default-dispatcher-2 
+Host>>>>>>>localhost:8181
+
+2016-04-06 14:39:19,769 - [ERROR] - from application in play-akka.actor.default-dispatcher-10 
+Script 'test' not found
+
+2016-04-06 14:43:50,317 - [INFO] - from play in Connect Thread 
+Application started (Prod)
+
+2016-04-06 14:43:50,405 - [INFO] - from play in Connect Thread 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-06 15:15:42,918 - [INFO] - from play in Connect Thread 
+Application started (Prod)
+
+2016-04-06 15:15:43,098 - [INFO] - from play in Connect Thread 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-06 15:16:51,260 - [INFO] - from application in play-akka.actor.default-dispatcher-2 
+X-Gamedonia-ApiKey>>>>>>>ec546fd8-805a-48b0-beeb-3c00e568bcd4
+
+2016-04-06 15:16:51,262 - [INFO] - from application in play-akka.actor.default-dispatcher-2 
+Connection>>>>>>>Keep-Alive
+
+2016-04-06 15:16:51,263 - [INFO] - from application in play-akka.actor.default-dispatcher-2 
+Content-Length>>>>>>>0
+
+2016-04-06 15:16:51,263 - [INFO] - from application in play-akka.actor.default-dispatcher-2 
+Authorization>>>>>>>ZW1haWx8YXhhdWJldEBob3RtYWlsLmNvbXx0aGUtcGFzc3dvcmQ=
+
+2016-04-06 15:16:51,264 - [INFO] - from application in play-akka.actor.default-dispatcher-2 
+User-Agent>>>>>>>Apache-HttpClient/4.3.6 (java 1.5)
+
+2016-04-06 15:16:51,265 - [INFO] - from application in play-akka.actor.default-dispatcher-2 
+Host>>>>>>>localhost:8181
+
+2016-04-06 15:17:50,193 - [ERROR] - from application in play-akka.actor.default-dispatcher-3 
+Script 'test' not found
+
+2016-04-06 15:25:56,320 - [INFO] - from play in Connect Thread 
+Application started (Prod)
+
+2016-04-06 15:25:56,567 - [INFO] - from play in Connect Thread 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-06 15:26:13,555 - [INFO] - from application in play-akka.actor.default-dispatcher-2 
+X-Gamedonia-ApiKey>>>>>>>ec546fd8-805a-48b0-beeb-3c00e568bcd4
+
+2016-04-06 15:26:13,559 - [INFO] - from application in play-akka.actor.default-dispatcher-2 
+Connection>>>>>>>Keep-Alive
+
+2016-04-06 15:26:13,560 - [INFO] - from application in play-akka.actor.default-dispatcher-2 
+Content-Length>>>>>>>0
+
+2016-04-06 15:26:13,561 - [INFO] - from application in play-akka.actor.default-dispatcher-2 
+Authorization>>>>>>>ZW1haWx8YXhhdWJldEBob3RtYWlsLmNvbXx0aGUtcGFzc3dvcmQ=
+
+2016-04-06 15:26:13,562 - [INFO] - from application in play-akka.actor.default-dispatcher-2 
+User-Agent>>>>>>>Apache-HttpClient/4.3.6 (java 1.5)
+
+2016-04-06 15:26:13,563 - [INFO] - from application in play-akka.actor.default-dispatcher-2 
+Host>>>>>>>localhost:8181
+
+2016-04-06 15:26:51,143 - [ERROR] - from application in play-akka.actor.default-dispatcher-3 
+Script 'test' not found
+
+2016-04-06 15:27:02,382 - [INFO] - from application in play-akka.actor.default-dispatcher-4 
+X-Gamedonia-ApiKey>>>>>>>ec546fd8-805a-48b0-beeb-3c00e568bcd4
+
+2016-04-06 15:27:02,382 - [INFO] - from application in play-akka.actor.default-dispatcher-4 
+Connection>>>>>>>Keep-Alive
+
+2016-04-06 15:27:02,383 - [INFO] - from application in play-akka.actor.default-dispatcher-4 
+Content-Length>>>>>>>0
+
+2016-04-06 15:27:02,384 - [INFO] - from application in play-akka.actor.default-dispatcher-4 
+Authorization>>>>>>>ZW1haWx8YXhhdWJldEBob3RtYWlsLmNvbXx0aGUtcGFzc3dvcmQ=
+
+2016-04-06 15:27:02,385 - [INFO] - from application in play-akka.actor.default-dispatcher-4 
+User-Agent>>>>>>>Apache-HttpClient/4.3.6 (java 1.5)
+
+2016-04-06 15:27:02,386 - [INFO] - from application in play-akka.actor.default-dispatcher-4 
+Host>>>>>>>localhost:8181
+
+2016-04-06 15:27:54,429 - [ERROR] - from application in play-akka.actor.default-dispatcher-9 
+Script 'test' not found
+
+2016-04-06 15:29:25,202 - [INFO] - from play in Connect Thread 
+Application started (Prod)
+
+2016-04-06 15:29:25,285 - [INFO] - from play in Connect Thread 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-06 15:29:40,157 - [INFO] - from application in play-akka.actor.default-dispatcher-2 
+X-Gamedonia-ApiKey>>>>>>>ec546fd8-805a-48b0-beeb-3c00e568bcd4
+
+2016-04-06 15:29:40,159 - [INFO] - from application in play-akka.actor.default-dispatcher-2 
+Connection>>>>>>>Keep-Alive
+
+2016-04-06 15:29:40,160 - [INFO] - from application in play-akka.actor.default-dispatcher-2 
+Content-Length>>>>>>>0
+
+2016-04-06 15:29:40,161 - [INFO] - from application in play-akka.actor.default-dispatcher-2 
+Authorization>>>>>>>ZW1haWx8YXhhdWJldEBob3RtYWlsLmNvbXx0aGUtcGFzc3dvcmQ=
+
+2016-04-06 15:29:40,161 - [INFO] - from application in play-akka.actor.default-dispatcher-2 
+User-Agent>>>>>>>Apache-HttpClient/4.3.6 (java 1.5)
+
+2016-04-06 15:29:40,162 - [INFO] - from application in play-akka.actor.default-dispatcher-2 
+Host>>>>>>>localhost:8181
+
+2016-04-06 15:29:58,592 - [ERROR] - from application in play-akka.actor.default-dispatcher-4 
+Script 'test' not found
+
+2016-04-06 15:33:03,759 - [INFO] - from play in Connect Thread 
+Application started (Prod)
+
+2016-04-06 15:33:03,827 - [INFO] - from play in Connect Thread 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-06 15:33:13,089 - [INFO] - from application in play-akka.actor.default-dispatcher-2 
+X-Gamedonia-ApiKey>>>>>>>ec546fd8-805a-48b0-beeb-3c00e568bcd4
+
+2016-04-06 15:33:13,091 - [INFO] - from application in play-akka.actor.default-dispatcher-2 
+Connection>>>>>>>Keep-Alive
+
+2016-04-06 15:33:13,091 - [INFO] - from application in play-akka.actor.default-dispatcher-2 
+Content-Length>>>>>>>0
+
+2016-04-06 15:33:13,092 - [INFO] - from application in play-akka.actor.default-dispatcher-2 
+Authorization>>>>>>>ZW1haWx8YXhhdWJldEBob3RtYWlsLmNvbXx0aGUtcGFzc3dvcmQ=
+
+2016-04-06 15:33:13,092 - [INFO] - from application in play-akka.actor.default-dispatcher-2 
+User-Agent>>>>>>>Apache-HttpClient/4.3.6 (java 1.5)
+
+2016-04-06 15:33:13,093 - [INFO] - from application in play-akka.actor.default-dispatcher-2 
+Host>>>>>>>localhost:8181
+
+2016-04-06 15:33:15,016 - [ERROR] - from application in play-akka.actor.default-dispatcher-6 
+Script 'test' not found
+
+2016-04-06 15:34:20,121 - [INFO] - from play in Connect Thread 
+Application started (Prod)
+
+2016-04-06 15:34:20,300 - [INFO] - from play in Connect Thread 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-06 15:34:29,874 - [INFO] - from application in play-akka.actor.default-dispatcher-4 
+X-Gamedonia-ApiKey>>>>>>>ec546fd8-805a-48b0-beeb-3c00e568bcd4
+
+2016-04-06 15:34:29,875 - [INFO] - from application in play-akka.actor.default-dispatcher-4 
+Connection>>>>>>>Keep-Alive
+
+2016-04-06 15:34:29,876 - [INFO] - from application in play-akka.actor.default-dispatcher-4 
+Content-Length>>>>>>>0
+
+2016-04-06 15:34:29,877 - [INFO] - from application in play-akka.actor.default-dispatcher-4 
+Authorization>>>>>>>ZW1haWx8YXhhdWJldEBob3RtYWlsLmNvbXx0aGUtcGFzc3dvcmQ=
+
+2016-04-06 15:34:29,877 - [INFO] - from application in play-akka.actor.default-dispatcher-4 
+User-Agent>>>>>>>Apache-HttpClient/4.3.6 (java 1.5)
+
+2016-04-06 15:34:29,878 - [INFO] - from application in play-akka.actor.default-dispatcher-4 
+Host>>>>>>>localhost:8181
+
+2016-04-06 15:34:44,776 - [ERROR] - from application in play-akka.actor.default-dispatcher-9 
+Script 'test' not found
+
+2016-04-06 15:34:52,413 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+X-Gamedonia-ApiKey>>>>>>>ec546fd8-805a-48b0-beeb-3c00e568bcd4
+
+2016-04-06 15:34:52,414 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+Connection>>>>>>>Keep-Alive
+
+2016-04-06 15:34:52,414 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+Content-Length>>>>>>>0
+
+2016-04-06 15:34:52,415 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+Authorization>>>>>>>ZW1haWx8YXhhdWJldEBob3RtYWlsLmNvbXx0aGUtcGFzc3dvcmQ=
+
+2016-04-06 15:34:52,415 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+User-Agent>>>>>>>Apache-HttpClient/4.3.6 (java 1.5)
+
+2016-04-06 15:34:52,416 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+Host>>>>>>>localhost:8181
+
+2016-04-06 15:36:01,360 - [ERROR] - from application in play-akka.actor.default-dispatcher-2 
+Script 'test' not found
+
+2016-04-06 15:38:17,817 - [INFO] - from play in Connect Thread 
+Application started (Prod)
+
+2016-04-06 15:38:17,897 - [INFO] - from play in Connect Thread 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-06 15:38:29,500 - [INFO] - from application in play-akka.actor.default-dispatcher-3 
+X-Gamedonia-ApiKey>>>>>>>ec546fd8-805a-48b0-beeb-3c00e568bcd4
+
+2016-04-06 15:38:29,501 - [INFO] - from application in play-akka.actor.default-dispatcher-3 
+Connection>>>>>>>Keep-Alive
+
+2016-04-06 15:38:29,502 - [INFO] - from application in play-akka.actor.default-dispatcher-3 
+Content-Length>>>>>>>0
+
+2016-04-06 15:38:29,502 - [INFO] - from application in play-akka.actor.default-dispatcher-3 
+Authorization>>>>>>>ZW1haWx8YXhhdWJldEBob3RtYWlsLmNvbXx0aGUtcGFzc3dvcmQ=
+
+2016-04-06 15:38:29,503 - [INFO] - from application in play-akka.actor.default-dispatcher-3 
+User-Agent>>>>>>>Apache-HttpClient/4.3.6 (java 1.5)
+
+2016-04-06 15:38:29,503 - [INFO] - from application in play-akka.actor.default-dispatcher-3 
+Host>>>>>>>localhost:8181
+
+2016-04-06 16:04:58,336 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+X-Gamedonia-ApiKey>>>>>>>ec546fd8-805a-48b0-beeb-3c00e568bcd4
+
+2016-04-06 16:04:58,337 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+Connection>>>>>>>Keep-Alive
+
+2016-04-06 16:04:58,337 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+Content-Length>>>>>>>0
+
+2016-04-06 16:04:58,338 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+Authorization>>>>>>>ZW1haWx8YXhhdWJldEBob3RtYWlsLmNvbXx0aGUtcGFzc3dvcmQ=
+
+2016-04-06 16:04:58,338 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+User-Agent>>>>>>>Apache-HttpClient/4.3.6 (java 1.5)
+
+2016-04-06 16:04:58,339 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+Host>>>>>>>localhost:8181
+
+2016-04-06 16:07:02,084 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+X-Gamedonia-ApiKey>>>>>>>ec546fd8-805a-48b0-beeb-3c00e568bcd4
+
+2016-04-06 16:07:02,084 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+Connection>>>>>>>Keep-Alive
+
+2016-04-06 16:07:02,085 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+Content-Length>>>>>>>0
+
+2016-04-06 16:07:02,085 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+Authorization>>>>>>>ZW1haWx8YXhhdWJldEBob3RtYWlsLmNvbXx0aGUtcGFzc3dvcmQ=
+
+2016-04-06 16:07:02,086 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+User-Agent>>>>>>>Apache-HttpClient/4.3.6 (java 1.5)
+
+2016-04-06 16:07:02,087 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+Host>>>>>>>localhost:8181
+
+2016-04-06 16:09:33,818 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+X-Gamedonia-ApiKey>>>>>>>ec546fd8-805a-48b0-beeb-3c00e568bcd4
+
+2016-04-06 16:09:33,819 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+Connection>>>>>>>Keep-Alive
+
+2016-04-06 16:09:33,820 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+Content-Length>>>>>>>0
+
+2016-04-06 16:09:33,820 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+Authorization>>>>>>>ZW1haWx8YXhhdWJldEBob3RtYWlsLmNvbXx0aGUtcGFzc3dvcmQ=
+
+2016-04-06 16:09:33,821 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+User-Agent>>>>>>>Apache-HttpClient/4.3.6 (java 1.5)
+
+2016-04-06 16:09:33,821 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+Host>>>>>>>localhost:8181
+
+2016-04-06 16:24:29,856 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+X-Gamedonia-ApiKey>>>>>>>ec546fd8-805a-48b0-beeb-3c00e568bcd4
+
+2016-04-06 16:24:29,857 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+Connection>>>>>>>Keep-Alive
+
+2016-04-06 16:24:29,857 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+Content-Length>>>>>>>0
+
+2016-04-06 16:24:29,858 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+Authorization>>>>>>>ZW1haWx8YXhhdWJldEBob3RtYWlsLmNvbXx0aGUtcGFzc3dvcmQ=
+
+2016-04-06 16:24:29,859 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+User-Agent>>>>>>>Apache-HttpClient/4.3.6 (java 1.5)
+
+2016-04-06 16:24:29,859 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+Host>>>>>>>localhost:8181
+
+2016-04-06 16:26:46,616 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+X-Gamedonia-ApiKey>>>>>>>ec546fd8-805a-48b0-beeb-3c00e568bcd4
+
+2016-04-06 16:26:46,616 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+Connection>>>>>>>Keep-Alive
+
+2016-04-06 16:26:46,617 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+Content-Length>>>>>>>0
+
+2016-04-06 16:26:46,618 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+Authorization>>>>>>>ZW1haWx8YXhhdWJldEBob3RtYWlsLmNvbXx0aGUtcGFzc3dvcmQ=
+
+2016-04-06 16:26:46,618 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+User-Agent>>>>>>>Apache-HttpClient/4.3.6 (java 1.5)
+
+2016-04-06 16:26:46,619 - [INFO] - from application in play-akka.actor.default-dispatcher-6 
+Host>>>>>>>localhost:8181
+
+2016-04-06 16:29:53,921 - [INFO] - from application in play-akka.actor.default-dispatcher-14 
+X-Gamedonia-ApiKey>>>>>>>ec546fd8-805a-48b0-beeb-3c00e568bcd4
+
+2016-04-06 16:29:53,922 - [INFO] - from application in play-akka.actor.default-dispatcher-14 
+Connection>>>>>>>Keep-Alive
+
+2016-04-06 16:29:53,922 - [INFO] - from application in play-akka.actor.default-dispatcher-14 
+Content-Length>>>>>>>0
+
+2016-04-06 16:29:53,923 - [INFO] - from application in play-akka.actor.default-dispatcher-14 
+Authorization>>>>>>>ZW1haWx8YXhhdWJldEBob3RtYWlsLmNvbXx0aGUtcGFzc3dvcmQ=
+
+2016-04-06 16:29:53,924 - [INFO] - from application in play-akka.actor.default-dispatcher-14 
+User-Agent>>>>>>>Apache-HttpClient/4.3.6 (java 1.5)
+
+2016-04-06 16:29:53,924 - [INFO] - from application in play-akka.actor.default-dispatcher-14 
+Host>>>>>>>localhost:8181
+
+2016-04-06 16:51:53,915 - [INFO] - from play in Connect Thread 
+Application started (Prod)
+
+2016-04-06 16:51:53,993 - [INFO] - from play in Connect Thread 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-06 16:52:03,119 - [INFO] - from application in play-akka.actor.default-dispatcher-3 
+X-Gamedonia-ApiKey>>>>>>>ec546fd8-805a-48b0-beeb-3c00e568bcd4
+
+2016-04-06 16:52:03,121 - [INFO] - from application in play-akka.actor.default-dispatcher-3 
+Connection>>>>>>>Keep-Alive
+
+2016-04-06 16:52:03,121 - [INFO] - from application in play-akka.actor.default-dispatcher-3 
+Content-Length>>>>>>>0
+
+2016-04-06 16:52:03,122 - [INFO] - from application in play-akka.actor.default-dispatcher-3 
+Authorization>>>>>>>ZW1haWx8YXhhdWJldEBob3RtYWlsLmNvbXx0aGUtcGFzc3dvcmQ=
+
+2016-04-06 16:52:03,122 - [INFO] - from application in play-akka.actor.default-dispatcher-3 
+User-Agent>>>>>>>Apache-HttpClient/4.3.6 (java 1.5)
+
+2016-04-06 16:52:03,123 - [INFO] - from application in play-akka.actor.default-dispatcher-3 
+Host>>>>>>>localhost:8181
+
+2016-04-06 16:52:51,341 - [INFO] - from application in play-akka.actor.default-dispatcher-5 
+X-Gamedonia-ApiKey>>>>>>>ec546fd8-805a-48b0-beeb-3c00e568bcd4
+
+2016-04-06 16:52:51,342 - [INFO] - from application in play-akka.actor.default-dispatcher-5 
+Connection>>>>>>>Keep-Alive
+
+2016-04-06 16:52:51,342 - [INFO] - from application in play-akka.actor.default-dispatcher-5 
+Content-Length>>>>>>>0
+
+2016-04-06 16:52:51,343 - [INFO] - from application in play-akka.actor.default-dispatcher-5 
+Authorization>>>>>>>ZW1haWx8YXhhdWJldEBob3RtYWlsLmNvbXx0aGUtcGFzc3dvcmQ=
+
+2016-04-06 16:52:51,344 - [INFO] - from application in play-akka.actor.default-dispatcher-5 
+User-Agent>>>>>>>Apache-HttpClient/4.3.6 (java 1.5)
+
+2016-04-06 16:52:51,344 - [INFO] - from application in play-akka.actor.default-dispatcher-5 
+Host>>>>>>>localhost:8181
+
+2016-04-06 16:55:29,466 - [INFO] - from application in play-akka.actor.default-dispatcher-2 
+X-Gamedonia-ApiKey>>>>>>>ec546fd8-805a-48b0-beeb-3c00e568bcd4
+
+2016-04-06 16:55:29,467 - [INFO] - from application in play-akka.actor.default-dispatcher-2 
+Connection>>>>>>>Keep-Alive
+
+2016-04-06 16:55:29,468 - [INFO] - from application in play-akka.actor.default-dispatcher-2 
+Content-Length>>>>>>>0
+
+2016-04-06 16:55:29,468 - [INFO] - from application in play-akka.actor.default-dispatcher-2 
+Authorization>>>>>>>ZW1haWx8YXhhdWJldEBob3RtYWlsLmNvbXx0aGUtcGFzc3dvcmQ=
+
+2016-04-06 16:55:29,469 - [INFO] - from application in play-akka.actor.default-dispatcher-2 
+User-Agent>>>>>>>Apache-HttpClient/4.3.6 (java 1.5)
+
+2016-04-06 16:55:29,469 - [INFO] - from application in play-akka.actor.default-dispatcher-2 
+Host>>>>>>>localhost:8181
+
+2016-04-06 16:56:09,220 - [INFO] - from play in Connect Thread 
+Application started (Prod)
+
+2016-04-06 16:56:09,300 - [INFO] - from play in Connect Thread 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-06 16:56:16,904 - [INFO] - from application in play-akka.actor.default-dispatcher-3 
+X-Gamedonia-ApiKey>>>>>>>ec546fd8-805a-48b0-beeb-3c00e568bcd4
+
+2016-04-06 16:56:16,906 - [INFO] - from application in play-akka.actor.default-dispatcher-3 
+Connection>>>>>>>Keep-Alive
+
+2016-04-06 16:56:16,906 - [INFO] - from application in play-akka.actor.default-dispatcher-3 
+Content-Length>>>>>>>0
+
+2016-04-06 16:56:16,907 - [INFO] - from application in play-akka.actor.default-dispatcher-3 
+Authorization>>>>>>>ZW1haWx8YXhhdWJldEBob3RtYWlsLmNvbXx0aGUtcGFzc3dvcmQ=
+
+2016-04-06 16:56:16,908 - [INFO] - from application in play-akka.actor.default-dispatcher-3 
+User-Agent>>>>>>>Apache-HttpClient/4.3.6 (java 1.5)
+
+2016-04-06 16:56:16,908 - [INFO] - from application in play-akka.actor.default-dispatcher-3 
+Host>>>>>>>localhost:8181
+
+2016-04-06 16:57:56,830 - [INFO] - from application in play-akka.actor.default-dispatcher-7 
+X-Gamedonia-ApiKey>>>>>>>ec546fd8-805a-48b0-beeb-3c00e568bcd4
+
+2016-04-06 16:57:56,831 - [INFO] - from application in play-akka.actor.default-dispatcher-7 
+Connection>>>>>>>Keep-Alive
+
+2016-04-06 16:57:56,831 - [INFO] - from application in play-akka.actor.default-dispatcher-7 
+Content-Length>>>>>>>0
+
+2016-04-06 16:57:56,832 - [INFO] - from application in play-akka.actor.default-dispatcher-7 
+Authorization>>>>>>>ZW1haWx8YXhhdWJldEBob3RtYWlsLmNvbXx0aGUtcGFzc3dvcmQ=
+
+2016-04-06 16:57:56,833 - [INFO] - from application in play-akka.actor.default-dispatcher-7 
+User-Agent>>>>>>>Apache-HttpClient/4.3.6 (java 1.5)
+
+2016-04-06 16:57:56,833 - [INFO] - from application in play-akka.actor.default-dispatcher-7 
+Host>>>>>>>localhost:8181
+
+2016-04-06 16:58:58,046 - [INFO] - from application in play-akka.actor.default-dispatcher-8 
+X-Gamedonia-ApiKey>>>>>>>ec546fd8-805a-48b0-beeb-3c00e568bcd4
+
+2016-04-06 16:58:58,048 - [INFO] - from application in play-akka.actor.default-dispatcher-8 
+Connection>>>>>>>Keep-Alive
+
+2016-04-06 16:58:58,048 - [INFO] - from application in play-akka.actor.default-dispatcher-8 
+Content-Length>>>>>>>0
+
+2016-04-06 16:58:58,049 - [INFO] - from application in play-akka.actor.default-dispatcher-8 
+Authorization>>>>>>>ZW1haWx8YXhhdWJldEBob3RtYWlsLmNvbXx0aGUtcGFzc3dvcmQ=
+
+2016-04-06 16:58:58,049 - [INFO] - from application in play-akka.actor.default-dispatcher-8 
+User-Agent>>>>>>>Apache-HttpClient/4.3.6 (java 1.5)
+
+2016-04-06 16:58:58,050 - [INFO] - from application in play-akka.actor.default-dispatcher-8 
+Host>>>>>>>localhost:8181
+
+2016-04-06 17:00:41,236 - [INFO] - from play in Connect Thread 
+Application started (Prod)
+
+2016-04-06 17:00:41,312 - [INFO] - from play in Connect Thread 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-06 17:00:52,251 - [INFO] - from application in play-akka.actor.default-dispatcher-3 
+X-Gamedonia-ApiKey>>>>>>>ec546fd8-805a-48b0-beeb-3c00e568bcd4
+
+2016-04-06 17:00:52,251 - [INFO] - from application in play-akka.actor.default-dispatcher-3 
+Connection>>>>>>>Keep-Alive
+
+2016-04-06 17:00:52,252 - [INFO] - from application in play-akka.actor.default-dispatcher-3 
+Content-Length>>>>>>>0
+
+2016-04-06 17:00:52,253 - [INFO] - from application in play-akka.actor.default-dispatcher-3 
+Authorization>>>>>>>ZW1haWx8YXhhdWJldEBob3RtYWlsLmNvbXx0aGUtcGFzc3dvcmQ=
+
+2016-04-06 17:00:52,253 - [INFO] - from application in play-akka.actor.default-dispatcher-3 
+User-Agent>>>>>>>Apache-HttpClient/4.3.6 (java 1.5)
+
+2016-04-06 17:00:52,254 - [INFO] - from application in play-akka.actor.default-dispatcher-3 
+Host>>>>>>>localhost:8181
+
+2016-04-20 15:12:31,402 - [INFO] - from play in Connect Thread 
+Application started (Prod)
+
+2016-04-20 15:12:31,578 - [INFO] - from play in Connect Thread 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-20 15:14:24,921 - [ERROR] - from play in play-akka.actor.default-dispatcher-7 
+Cannot invoke the action, eventually got an error: java.lang.RuntimeException: There is no HTTP Context available from here.
+
+2016-04-20 15:14:24,929 - [ERROR] - from application in play-akka.actor.default-dispatcher-7 
+
+
+! @6pnom8jac - Internal server error, for (POST) [/v1/purchase/verify] ->
+
+play.api.Application$$anon$1: Execution exception[[RuntimeException: There is no HTTP Context available from here.]]
+	at play.api.Application$class.handleError(Application.scala:296) ~[api-debugger-assembly-1.0.1.jar:1.0.1]
+	at play.api.DefaultApplication.handleError(Application.scala:402) [api-debugger-assembly-1.0.1.jar:1.0.1]
+	at play.core.server.netty.PlayDefaultUpstreamHandler$$anonfun$3$$anonfun$applyOrElse$4.apply(PlayDefaultUpstreamHandler.scala:320) [api-debugger-assembly-1.0.1.jar:1.0.1]
+	at play.core.server.netty.PlayDefaultUpstreamHandler$$anonfun$3$$anonfun$applyOrElse$4.apply(PlayDefaultUpstreamHandler.scala:320) [api-debugger-assembly-1.0.1.jar:1.0.1]
+	at scala.Option.map(Option.scala:145) [api-debugger-assembly-1.0.1.jar:1.0.1]
+	at play.core.server.netty.PlayDefaultUpstreamHandler$$anonfun$3.applyOrElse(PlayDefaultUpstreamHandler.scala:320) [api-debugger-assembly-1.0.1.jar:1.0.1]
+	at play.core.server.netty.PlayDefaultUpstreamHandler$$anonfun$3.applyOrElse(PlayDefaultUpstreamHandler.scala:316) [api-debugger-assembly-1.0.1.jar:1.0.1]
+	at scala.concurrent.Future$$anonfun$recoverWith$1.apply(Future.scala:344) [api-debugger-assembly-1.0.1.jar:1.0.1]
+	at scala.concurrent.Future$$anonfun$recoverWith$1.apply(Future.scala:343) [api-debugger-assembly-1.0.1.jar:1.0.1]
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:32) [api-debugger-assembly-1.0.1.jar:1.0.1]
+	at play.api.libs.iteratee.Execution$trampoline$.execute(Execution.scala:46) [api-debugger-assembly-1.0.1.jar:1.0.1]
+	at scala.concurrent.impl.CallbackRunnable.executeWithValue(Promise.scala:40) [api-debugger-assembly-1.0.1.jar:1.0.1]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete(Promise.scala:248) [api-debugger-assembly-1.0.1.jar:1.0.1]
+	at scala.concurrent.Promise$class.complete(Promise.scala:55) [api-debugger-assembly-1.0.1.jar:1.0.1]
+	at scala.concurrent.impl.Promise$DefaultPromise.complete(Promise.scala:153) [api-debugger-assembly-1.0.1.jar:1.0.1]
+	at scala.concurrent.impl.Future$PromiseCompletingRunnable.run(Future.scala:23) [api-debugger-assembly-1.0.1.jar:1.0.1]
+	at akka.dispatch.TaskInvocation.run(AbstractDispatcher.scala:41) [api-debugger-assembly-1.0.1.jar:1.0.1]
+	at akka.dispatch.ForkJoinExecutorConfigurator$AkkaForkJoinTask.exec(AbstractDispatcher.scala:393) [api-debugger-assembly-1.0.1.jar:1.0.1]
+	at scala.concurrent.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:260) [api-debugger-assembly-1.0.1.jar:1.0.1]
+	at scala.concurrent.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1339) [api-debugger-assembly-1.0.1.jar:1.0.1]
+	at scala.concurrent.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1979) [api-debugger-assembly-1.0.1.jar:1.0.1]
+	at scala.concurrent.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:107) [api-debugger-assembly-1.0.1.jar:1.0.1]
+Caused by: java.lang.RuntimeException: There is no HTTP Context available from here.
+	at play.mvc.Http$Context.current(Http.java:34) ~[api-debugger-assembly-1.0.1.jar:1.0.1]
+	at play.mvc.Controller.ctx(Controller.java:19) ~[api-debugger-assembly-1.0.1.jar:1.0.1]
+	at controllers.Application.passthrough(Application.java:56) ~[api-debugger-assembly-1.0.1.jar:1.0.1]
+	at com.edenicgames.gamedonia.api.controllers.PurchaseApi$$anonfun$verify$1.apply(PurchaseApi.scala:9) ~[api-debugger-assembly-1.0.1.jar:1.0.1]
+	at com.edenicgames.gamedonia.api.controllers.PurchaseApi$$anonfun$verify$1.apply(PurchaseApi.scala:8) ~[api-debugger-assembly-1.0.1.jar:1.0.1]
+	at play.api.mvc.ActionBuilder$$anonfun$apply$16.apply(Action.scala:433) ~[api-debugger-assembly-1.0.1.jar:1.0.1]
+	at play.api.mvc.ActionBuilder$$anonfun$apply$16.apply(Action.scala:432) ~[api-debugger-assembly-1.0.1.jar:1.0.1]
+	at play.api.mvc.Action$.invokeBlock(Action.scala:556) ~[api-debugger-assembly-1.0.1.jar:1.0.1]
+	at play.api.mvc.Action$.invokeBlock(Action.scala:555) ~[api-debugger-assembly-1.0.1.jar:1.0.1]
+	at play.api.mvc.ActionBuilder$$anon$1.apply(Action.scala:518) ~[api-debugger-assembly-1.0.1.jar:1.0.1]
+	at play.api.mvc.Action$$anonfun$apply$1$$anonfun$apply$4$$anonfun$apply$5.apply(Action.scala:130) ~[api-debugger-assembly-1.0.1.jar:1.0.1]
+	at play.api.mvc.Action$$anonfun$apply$1$$anonfun$apply$4$$anonfun$apply$5.apply(Action.scala:130) ~[api-debugger-assembly-1.0.1.jar:1.0.1]
+	at play.utils.Threads$.withContextClassLoader(Threads.scala:21) ~[api-debugger-assembly-1.0.1.jar:1.0.1]
+	at play.api.mvc.Action$$anonfun$apply$1$$anonfun$apply$4.apply(Action.scala:129) ~[api-debugger-assembly-1.0.1.jar:1.0.1]
+	at play.api.mvc.Action$$anonfun$apply$1$$anonfun$apply$4.apply(Action.scala:128) ~[api-debugger-assembly-1.0.1.jar:1.0.1]
+	at scala.Option.map(Option.scala:145) [api-debugger-assembly-1.0.1.jar:1.0.1]
+	at play.api.mvc.Action$$anonfun$apply$1.apply(Action.scala:128) ~[api-debugger-assembly-1.0.1.jar:1.0.1]
+	at play.api.mvc.Action$$anonfun$apply$1.apply(Action.scala:121) ~[api-debugger-assembly-1.0.1.jar:1.0.1]
+	at play.api.libs.iteratee.Iteratee$$anonfun$mapM$1.apply(Iteratee.scala:483) ~[api-debugger-assembly-1.0.1.jar:1.0.1]
+	at play.api.libs.iteratee.Iteratee$$anonfun$mapM$1.apply(Iteratee.scala:483) ~[api-debugger-assembly-1.0.1.jar:1.0.1]
+	at play.api.libs.iteratee.Iteratee$$anonfun$flatMapM$1.apply(Iteratee.scala:519) ~[api-debugger-assembly-1.0.1.jar:1.0.1]
+	at play.api.libs.iteratee.Iteratee$$anonfun$flatMapM$1.apply(Iteratee.scala:519) ~[api-debugger-assembly-1.0.1.jar:1.0.1]
+	at play.api.libs.iteratee.Iteratee$$anonfun$flatMap$1$$anonfun$apply$14.apply(Iteratee.scala:496) ~[api-debugger-assembly-1.0.1.jar:1.0.1]
+	at play.api.libs.iteratee.Iteratee$$anonfun$flatMap$1$$anonfun$apply$14.apply(Iteratee.scala:496) ~[api-debugger-assembly-1.0.1.jar:1.0.1]
+	at scala.concurrent.impl.Future$PromiseCompletingRunnable.liftedTree1$1(Future.scala:24) [api-debugger-assembly-1.0.1.jar:1.0.1]
+	at scala.concurrent.impl.Future$PromiseCompletingRunnable.run(Future.scala:24) [api-debugger-assembly-1.0.1.jar:1.0.1]
+	... 6 common frames omitted
+
+2016-04-20 15:26:36,360 - [INFO] - from play in Connect Thread 
+Application started (Prod)
+
+2016-04-20 15:26:36,495 - [INFO] - from play in Connect Thread 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-20 15:31:07,898 - [INFO] - from play in Connect Thread 
+Application started (Prod)
+
+2016-04-20 15:31:07,977 - [INFO] - from play in Connect Thread 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-20 15:55:30,352 - [INFO] - from play in Connect Thread 
+Application started (Prod)
+
+2016-04-20 15:55:30,513 - [INFO] - from play in Connect Thread 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-20 16:06:06,987 - [INFO] - from play in Connect Thread 
+Application started (Prod)
+
+2016-04-20 16:06:07,148 - [INFO] - from play in Connect Thread 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-20 16:19:17,125 - [INFO] - from play in Connect Thread 
+Application started (Prod)
+
+2016-04-20 16:19:17,289 - [INFO] - from play in Connect Thread 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-20 16:43:22,561 - [INFO] - from play in Connect Thread 
+Application started (Prod)
+
+2016-04-20 16:43:22,779 - [INFO] - from play in Connect Thread 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-20 18:08:59,201 - [INFO] - from play in Connect Thread 
+Application started (Prod)
+
+2016-04-20 18:08:59,339 - [INFO] - from play in Connect Thread 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-20 18:10:17,427 - [INFO] - from play in Connect Thread 
+Application started (Prod)
+
+2016-04-20 18:10:17,508 - [INFO] - from play in Connect Thread 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-20 18:18:26,582 - [INFO] - from play in Connect Thread 
+Application started (Prod)
+
+2016-04-20 18:18:26,659 - [INFO] - from play in Connect Thread 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-20 18:24:53,794 - [INFO] - from play in Connect Thread 
+Application started (Prod)
+
+2016-04-20 18:24:53,878 - [INFO] - from play in Connect Thread 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-20 18:28:24,449 - [INFO] - from play in Connect Thread 
+Application started (Prod)
+
+2016-04-20 18:28:24,529 - [INFO] - from play in Connect Thread 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-21 09:19:12,381 - [INFO] - from play in main 
+Application started (Prod)
+
+2016-04-21 09:19:12,455 - [INFO] - from play in main 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-21 09:20:24,230 - [INFO] - from play in main 
+Application started (Prod)
+
+2016-04-21 09:20:24,304 - [INFO] - from play in main 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-21 09:21:59,811 - [INFO] - from play in main 
+Application started (Prod)
+
+2016-04-21 09:21:59,870 - [INFO] - from play in main 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-21 09:22:22,007 - [INFO] - from play in main 
+Application started (Prod)
+
+2016-04-21 09:22:22,079 - [INFO] - from play in main 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-21 09:25:27,322 - [INFO] - from play in main 
+Application started (Prod)
+
+2016-04-21 09:25:27,408 - [INFO] - from play in main 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-21 09:34:01,525 - [INFO] - from play in main 
+Application started (Prod)
+
+2016-04-21 09:34:01,602 - [INFO] - from play in main 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-21 10:24:43,524 - [INFO] - from play in main 
+Application started (Prod)
+
+2016-04-21 10:24:43,596 - [INFO] - from play in main 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-21 10:34:12,687 - [INFO] - from play in main 
+Application started (Prod)
+
+2016-04-21 10:34:12,765 - [INFO] - from play in main 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-21 10:56:58,660 - [INFO] - from play in main 
+Application started (Prod)
+
+2016-04-21 10:56:58,737 - [INFO] - from play in main 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-21 10:58:34,554 - [ERROR] - from play in play-akka.actor.default-dispatcher-3 
+Cannot invoke the action, eventually got an error: scala.MatchError: Result(400, Map(Content-Type -> application/json; charset=utf-8)) (of class play.mvc.Results$Status)
+
+2016-04-21 10:58:34,572 - [ERROR] - from application in play-akka.actor.default-dispatcher-3 
+
+
+! @6po4ll4ai - Internal server error, for (POST) [/v1/purchase/verify] ->
+
+play.api.Application$$anon$1: Execution exception[[MatchError: Result(400, Map(Content-Type -> application/json; charset=utf-8)) (of class play.mvc.Results$Status)]]
+	at play.api.Application$class.handleError(Application.scala:296) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.DefaultApplication.handleError(Application.scala:402) [play_2.11-2.3.7.jar:2.3.7]
+	at play.core.server.netty.PlayDefaultUpstreamHandler$$anonfun$3$$anonfun$applyOrElse$4.apply(PlayDefaultUpstreamHandler.scala:320) [play_2.11-2.3.7.jar:2.3.7]
+	at play.core.server.netty.PlayDefaultUpstreamHandler$$anonfun$3$$anonfun$applyOrElse$4.apply(PlayDefaultUpstreamHandler.scala:320) [play_2.11-2.3.7.jar:2.3.7]
+	at scala.Option.map(Option.scala:146) [na:na]
+	at play.core.server.netty.PlayDefaultUpstreamHandler$$anonfun$3.applyOrElse(PlayDefaultUpstreamHandler.scala:320) [play_2.11-2.3.7.jar:2.3.7]
+	at play.core.server.netty.PlayDefaultUpstreamHandler$$anonfun$3.applyOrElse(PlayDefaultUpstreamHandler.scala:316) [play_2.11-2.3.7.jar:2.3.7]
+	at scala.concurrent.Future$$anonfun$recoverWith$1.apply(Future.scala:344) [na:na]
+	at scala.concurrent.Future$$anonfun$recoverWith$1.apply(Future.scala:343) [na:na]
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:32) [na:na]
+	at play.api.libs.iteratee.Execution$trampoline$.execute(Execution.scala:46) [play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at scala.concurrent.impl.CallbackRunnable.executeWithValue(Promise.scala:40) [na:na]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete(Promise.scala:248) [na:na]
+	at scala.concurrent.Promise$class.complete(Promise.scala:55) [na:na]
+	at scala.concurrent.impl.Promise$DefaultPromise.complete(Promise.scala:153) [na:na]
+	at scala.concurrent.impl.Future$PromiseCompletingRunnable.run(Future.scala:23) [na:na]
+	at akka.dispatch.TaskInvocation.run(AbstractDispatcher.scala:41) [akka-actor_2.11-2.3.4.jar:na]
+	at akka.dispatch.ForkJoinExecutorConfigurator$AkkaForkJoinTask.exec(AbstractDispatcher.scala:393) [akka-actor_2.11-2.3.4.jar:na]
+	at scala.concurrent.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:260) [na:na]
+	at scala.concurrent.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1339) [na:na]
+	at scala.concurrent.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1979) [na:na]
+	at scala.concurrent.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:107) [na:na]
+Caused by: scala.MatchError: Result(400, Map(Content-Type -> application/json; charset=utf-8)) (of class play.mvc.Results$Status)
+	at com.edenicgames.gamedonia.api.controllers.PurchaseApi$$anonfun$verify$1.apply(PurchaseApi.scala:22) ~[classes/:na]
+	at com.edenicgames.gamedonia.api.controllers.PurchaseApi$$anonfun$verify$1.apply(PurchaseApi.scala:12) ~[classes/:na]
+	at play.api.mvc.ActionBuilder$$anonfun$apply$16.apply(Action.scala:433) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.ActionBuilder$$anonfun$apply$16.apply(Action.scala:432) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$.invokeBlock(Action.scala:556) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$.invokeBlock(Action.scala:555) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.ActionBuilder$$anon$1.apply(Action.scala:518) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$$anonfun$apply$1$$anonfun$apply$4$$anonfun$apply$5.apply(Action.scala:130) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$$anonfun$apply$1$$anonfun$apply$4$$anonfun$apply$5.apply(Action.scala:130) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.utils.Threads$.withContextClassLoader(Threads.scala:21) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$$anonfun$apply$1$$anonfun$apply$4.apply(Action.scala:129) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$$anonfun$apply$1$$anonfun$apply$4.apply(Action.scala:128) ~[play_2.11-2.3.7.jar:2.3.7]
+	at scala.Option.map(Option.scala:146) [na:na]
+	at play.api.mvc.Action$$anonfun$apply$1.apply(Action.scala:128) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$$anonfun$apply$1.apply(Action.scala:121) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.libs.iteratee.Iteratee$$anonfun$mapM$1.apply(Iteratee.scala:483) ~[play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at play.api.libs.iteratee.Iteratee$$anonfun$mapM$1.apply(Iteratee.scala:483) ~[play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at play.api.libs.iteratee.Iteratee$$anonfun$flatMapM$1.apply(Iteratee.scala:519) ~[play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at play.api.libs.iteratee.Iteratee$$anonfun$flatMapM$1.apply(Iteratee.scala:519) ~[play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at play.api.libs.iteratee.Iteratee$$anonfun$flatMap$1$$anonfun$apply$14.apply(Iteratee.scala:496) ~[play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at play.api.libs.iteratee.Iteratee$$anonfun$flatMap$1$$anonfun$apply$14.apply(Iteratee.scala:496) ~[play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at scala.concurrent.impl.Future$PromiseCompletingRunnable.liftedTree1$1(Future.scala:24) [na:na]
+	at scala.concurrent.impl.Future$PromiseCompletingRunnable.run(Future.scala:24) [na:na]
+	... 6 common frames omitted
+
+2016-04-21 10:59:00,493 - [ERROR] - from play in play-akka.actor.default-dispatcher-7 
+Cannot invoke the action, eventually got an error: scala.MatchError: Result(400, Map(Content-Type -> application/json; charset=utf-8)) (of class play.mvc.Results$Status)
+
+2016-04-21 10:59:00,494 - [ERROR] - from application in play-akka.actor.default-dispatcher-7 
+
+
+! @6po4lmgk6 - Internal server error, for (POST) [/v1/purchase/verify] ->
+
+play.api.Application$$anon$1: Execution exception[[MatchError: Result(400, Map(Content-Type -> application/json; charset=utf-8)) (of class play.mvc.Results$Status)]]
+	at play.api.Application$class.handleError(Application.scala:296) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.DefaultApplication.handleError(Application.scala:402) [play_2.11-2.3.7.jar:2.3.7]
+	at play.core.server.netty.PlayDefaultUpstreamHandler$$anonfun$3$$anonfun$applyOrElse$4.apply(PlayDefaultUpstreamHandler.scala:320) [play_2.11-2.3.7.jar:2.3.7]
+	at play.core.server.netty.PlayDefaultUpstreamHandler$$anonfun$3$$anonfun$applyOrElse$4.apply(PlayDefaultUpstreamHandler.scala:320) [play_2.11-2.3.7.jar:2.3.7]
+	at scala.Option.map(Option.scala:146) [na:na]
+	at play.core.server.netty.PlayDefaultUpstreamHandler$$anonfun$3.applyOrElse(PlayDefaultUpstreamHandler.scala:320) [play_2.11-2.3.7.jar:2.3.7]
+	at play.core.server.netty.PlayDefaultUpstreamHandler$$anonfun$3.applyOrElse(PlayDefaultUpstreamHandler.scala:316) [play_2.11-2.3.7.jar:2.3.7]
+	at scala.concurrent.Future$$anonfun$recoverWith$1.apply(Future.scala:344) [na:na]
+	at scala.concurrent.Future$$anonfun$recoverWith$1.apply(Future.scala:343) [na:na]
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:32) [na:na]
+	at play.api.libs.iteratee.Execution$trampoline$.execute(Execution.scala:46) [play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at scala.concurrent.impl.CallbackRunnable.executeWithValue(Promise.scala:40) [na:na]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete(Promise.scala:248) [na:na]
+	at scala.concurrent.Promise$class.complete(Promise.scala:55) [na:na]
+	at scala.concurrent.impl.Promise$DefaultPromise.complete(Promise.scala:153) [na:na]
+	at scala.concurrent.impl.Future$PromiseCompletingRunnable.run(Future.scala:23) [na:na]
+	at akka.dispatch.TaskInvocation.run(AbstractDispatcher.scala:41) [akka-actor_2.11-2.3.4.jar:na]
+	at akka.dispatch.ForkJoinExecutorConfigurator$AkkaForkJoinTask.exec(AbstractDispatcher.scala:393) [akka-actor_2.11-2.3.4.jar:na]
+	at scala.concurrent.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:260) [na:na]
+	at scala.concurrent.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1339) [na:na]
+	at scala.concurrent.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1979) [na:na]
+	at scala.concurrent.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:107) [na:na]
+Caused by: scala.MatchError: Result(400, Map(Content-Type -> application/json; charset=utf-8)) (of class play.mvc.Results$Status)
+	at com.edenicgames.gamedonia.api.controllers.PurchaseApi$$anonfun$verify$1.apply(PurchaseApi.scala:22) ~[classes/:na]
+	at com.edenicgames.gamedonia.api.controllers.PurchaseApi$$anonfun$verify$1.apply(PurchaseApi.scala:12) ~[classes/:na]
+	at play.api.mvc.ActionBuilder$$anonfun$apply$16.apply(Action.scala:433) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.ActionBuilder$$anonfun$apply$16.apply(Action.scala:432) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$.invokeBlock(Action.scala:556) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$.invokeBlock(Action.scala:555) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.ActionBuilder$$anon$1.apply(Action.scala:518) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$$anonfun$apply$1$$anonfun$apply$4$$anonfun$apply$5.apply(Action.scala:130) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$$anonfun$apply$1$$anonfun$apply$4$$anonfun$apply$5.apply(Action.scala:130) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.utils.Threads$.withContextClassLoader(Threads.scala:21) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$$anonfun$apply$1$$anonfun$apply$4.apply(Action.scala:129) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$$anonfun$apply$1$$anonfun$apply$4.apply(Action.scala:128) ~[play_2.11-2.3.7.jar:2.3.7]
+	at scala.Option.map(Option.scala:146) [na:na]
+	at play.api.mvc.Action$$anonfun$apply$1.apply(Action.scala:128) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$$anonfun$apply$1.apply(Action.scala:121) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.libs.iteratee.Iteratee$$anonfun$mapM$1.apply(Iteratee.scala:483) ~[play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at play.api.libs.iteratee.Iteratee$$anonfun$mapM$1.apply(Iteratee.scala:483) ~[play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at play.api.libs.iteratee.Iteratee$$anonfun$flatMapM$1.apply(Iteratee.scala:519) ~[play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at play.api.libs.iteratee.Iteratee$$anonfun$flatMapM$1.apply(Iteratee.scala:519) ~[play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at play.api.libs.iteratee.Iteratee$$anonfun$flatMap$1$$anonfun$apply$14.apply(Iteratee.scala:496) ~[play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at play.api.libs.iteratee.Iteratee$$anonfun$flatMap$1$$anonfun$apply$14.apply(Iteratee.scala:496) ~[play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at scala.concurrent.impl.Future$PromiseCompletingRunnable.liftedTree1$1(Future.scala:24) [na:na]
+	at scala.concurrent.impl.Future$PromiseCompletingRunnable.run(Future.scala:24) [na:na]
+	... 6 common frames omitted
+
+2016-04-21 10:59:58,212 - [INFO] - from play in main 
+Application started (Prod)
+
+2016-04-21 10:59:58,287 - [INFO] - from play in main 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-21 11:05:32,421 - [INFO] - from play in main 
+Application started (Prod)
+
+2016-04-21 11:05:32,496 - [INFO] - from play in main 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-21 11:07:08,713 - [INFO] - from play in main 
+Application started (Prod)
+
+2016-04-21 11:07:08,786 - [INFO] - from play in main 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-21 11:08:07,671 - [INFO] - from play in main 
+Application started (Prod)
+
+2016-04-21 11:08:07,744 - [INFO] - from play in main 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-21 11:13:07,074 - [INFO] - from play in main 
+Application started (Prod)
+
+2016-04-21 11:13:07,148 - [INFO] - from play in main 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-21 11:16:09,688 - [INFO] - from play in main 
+Application started (Prod)
+
+2016-04-21 11:16:09,761 - [INFO] - from play in main 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-21 11:16:16,507 - [INFO] - from play in main 
+Application started (Prod)
+
+2016-04-21 11:28:05,769 - [INFO] - from play in main 
+Application started (Prod)
+
+2016-04-21 11:28:05,841 - [INFO] - from play in main 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-21 11:28:10,661 - [INFO] - from play in main 
+Application started (Prod)
+
+2016-04-21 14:55:53,384 - [INFO] - from play in main 
+Application started (Prod)
+
+2016-04-21 14:55:53,459 - [INFO] - from play in main 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-21 14:55:59,504 - [INFO] - from play in main 
+Application started (Prod)
+
+2016-04-21 14:57:27,582 - [INFO] - from play in main 
+Application started (Prod)
+
+2016-04-21 14:57:27,654 - [INFO] - from play in main 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-21 15:04:48,178 - [INFO] - from play in main 
+Application started (Prod)
+
+2016-04-21 15:04:48,253 - [INFO] - from play in main 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-21 15:14:18,349 - [INFO] - from play in Connect Thread 
+Application started (Prod)
+
+2016-04-21 15:14:18,422 - [INFO] - from play in Connect Thread 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-21 15:28:26,904 - [INFO] - from play in Connect Thread 
+Application started (Prod)
+
+2016-04-21 15:28:26,986 - [INFO] - from play in Connect Thread 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-21 15:31:41,576 - [INFO] - from play in Connect Thread 
+Application started (Prod)
+
+2016-04-21 15:31:41,650 - [INFO] - from play in Connect Thread 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-21 15:39:02,789 - [INFO] - from play in main 
+Application started (Prod)
+
+2016-04-21 15:39:02,860 - [INFO] - from play in main 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-21 15:42:58,570 - [INFO] - from play in Connect Thread 
+Application started (Prod)
+
+2016-04-21 15:42:58,649 - [INFO] - from play in Connect Thread 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-21 15:53:45,340 - [INFO] - from play in main 
+Application started (Prod)
+
+2016-04-21 15:53:45,418 - [INFO] - from play in main 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-21 16:00:58,507 - [INFO] - from play in main 
+Application started (Prod)
+
+2016-04-21 16:00:58,580 - [INFO] - from play in main 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-21 16:10:18,147 - [INFO] - from play in main 
+Application started (Prod)
+
+2016-04-21 16:10:18,220 - [INFO] - from play in main 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-21 16:15:01,873 - [INFO] - from play in Connect Thread 
+Application started (Prod)
+
+2016-04-21 16:15:01,954 - [INFO] - from play in Connect Thread 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-21 16:16:32,844 - [INFO] - from play in Connect Thread 
+Application started (Prod)
+
+2016-04-21 16:16:32,919 - [INFO] - from play in Connect Thread 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-21 16:18:38,695 - [INFO] - from play in Connect Thread 
+Application started (Prod)
+
+2016-04-21 16:18:38,770 - [INFO] - from play in Connect Thread 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-21 16:22:38,813 - [INFO] - from play in Connect Thread 
+Application started (Prod)
+
+2016-04-21 16:22:38,895 - [INFO] - from play in Connect Thread 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-21 16:26:03,316 - [INFO] - from play in Connect Thread 
+Application started (Prod)
+
+2016-04-21 16:26:03,400 - [INFO] - from play in Connect Thread 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-21 16:26:58,098 - [INFO] - from play in Connect Thread 
+Application started (Prod)
+
+2016-04-21 16:26:58,178 - [INFO] - from play in Connect Thread 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-21 16:31:11,846 - [INFO] - from play in Connect Thread 
+Application started (Prod)
+
+2016-04-21 16:31:11,916 - [INFO] - from play in Connect Thread 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-21 16:35:18,088 - [INFO] - from play in Connect Thread 
+Application started (Prod)
+
+2016-04-21 16:35:18,170 - [INFO] - from play in Connect Thread 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-21 16:42:15,938 - [INFO] - from play in Connect Thread 
+Application started (Prod)
+
+2016-04-21 16:42:16,011 - [INFO] - from play in Connect Thread 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-21 16:47:36,268 - [INFO] - from play in main 
+Application started (Prod)
+
+2016-04-21 16:47:36,342 - [INFO] - from play in main 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-21 16:50:46,142 - [INFO] - from play in main 
+Application started (Prod)
+
+2016-04-21 16:50:46,214 - [INFO] - from play in main 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-21 16:54:24,626 - [INFO] - from play in Connect Thread 
+Application started (Prod)
+
+2016-04-21 16:54:24,709 - [INFO] - from play in Connect Thread 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-21 16:56:20,458 - [INFO] - from play in Connect Thread 
+Application started (Prod)
+
+2016-04-21 16:56:20,532 - [INFO] - from play in Connect Thread 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-21 16:58:39,506 - [INFO] - from play in Connect Thread 
+Application started (Prod)
+
+2016-04-21 16:58:39,584 - [INFO] - from play in Connect Thread 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-21 17:53:22,115 - [INFO] - from play in main 
+Application started (Prod)
+
+2016-04-21 17:54:01,907 - [INFO] - from play in main 
+Application started (Prod)
+
+2016-04-21 17:56:06,397 - [INFO] - from play in main 
+Application started (Prod)
+
+2016-04-21 17:56:06,458 - [INFO] - from play in main 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-21 18:13:43,469 - [INFO] - from play in main 
+Application started (Prod)
+
+2016-04-21 18:13:43,535 - [INFO] - from play in main 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-21 18:14:50,226 - [ERROR] - from play in play-akka.actor.default-dispatcher-6 
+Cannot invoke the action, eventually got an error: java.lang.NullPointerException
+
+2016-04-21 18:14:50,241 - [ERROR] - from application in play-akka.actor.default-dispatcher-6 
+
+
+! @6po712bl6 - Internal server error, for (POST) [/v1/purchase/verify] ->
+
+play.api.Application$$anon$1: Execution exception[[NullPointerException: null]]
+	at play.api.Application$class.handleError(Application.scala:296) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.DefaultApplication.handleError(Application.scala:402) [play_2.11-2.3.7.jar:2.3.7]
+	at play.core.server.netty.PlayDefaultUpstreamHandler$$anonfun$3$$anonfun$applyOrElse$4.apply(PlayDefaultUpstreamHandler.scala:320) [play_2.11-2.3.7.jar:2.3.7]
+	at play.core.server.netty.PlayDefaultUpstreamHandler$$anonfun$3$$anonfun$applyOrElse$4.apply(PlayDefaultUpstreamHandler.scala:320) [play_2.11-2.3.7.jar:2.3.7]
+	at scala.Option.map(Option.scala:146) [na:na]
+	at play.core.server.netty.PlayDefaultUpstreamHandler$$anonfun$3.applyOrElse(PlayDefaultUpstreamHandler.scala:320) [play_2.11-2.3.7.jar:2.3.7]
+	at play.core.server.netty.PlayDefaultUpstreamHandler$$anonfun$3.applyOrElse(PlayDefaultUpstreamHandler.scala:316) [play_2.11-2.3.7.jar:2.3.7]
+	at scala.concurrent.Future$$anonfun$recoverWith$1.apply(Future.scala:344) [na:na]
+	at scala.concurrent.Future$$anonfun$recoverWith$1.apply(Future.scala:343) [na:na]
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:32) [na:na]
+	at play.api.libs.iteratee.Execution$trampoline$.execute(Execution.scala:46) [play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at scala.concurrent.impl.CallbackRunnable.executeWithValue(Promise.scala:40) [na:na]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete(Promise.scala:248) [na:na]
+	at scala.concurrent.Promise$class.complete(Promise.scala:55) [na:na]
+	at scala.concurrent.impl.Promise$DefaultPromise.complete(Promise.scala:153) [na:na]
+	at scala.concurrent.impl.Future$PromiseCompletingRunnable.run(Future.scala:23) [na:na]
+	at akka.dispatch.TaskInvocation.run(AbstractDispatcher.scala:41) [akka-actor_2.11-2.3.4.jar:na]
+	at akka.dispatch.ForkJoinExecutorConfigurator$AkkaForkJoinTask.exec(AbstractDispatcher.scala:393) [akka-actor_2.11-2.3.4.jar:na]
+	at scala.concurrent.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:260) [na:na]
+	at scala.concurrent.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1339) [na:na]
+	at scala.concurrent.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1979) [na:na]
+	at scala.concurrent.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:107) [na:na]
+Caused by: java.lang.NullPointerException: null
+	at com.edenicgames.gamedonia.api.controllers.PurchaseApi$$anonfun$verify$1.apply(PurchaseApi.scala:50) ~[classes/:na]
+	at com.edenicgames.gamedonia.api.controllers.PurchaseApi$$anonfun$verify$1.apply(PurchaseApi.scala:15) ~[classes/:na]
+	at play.api.mvc.ActionBuilder$$anonfun$apply$16.apply(Action.scala:433) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.ActionBuilder$$anonfun$apply$16.apply(Action.scala:432) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$.invokeBlock(Action.scala:556) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$.invokeBlock(Action.scala:555) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.ActionBuilder$$anon$1.apply(Action.scala:518) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$$anonfun$apply$1$$anonfun$apply$4$$anonfun$apply$5.apply(Action.scala:130) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$$anonfun$apply$1$$anonfun$apply$4$$anonfun$apply$5.apply(Action.scala:130) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.utils.Threads$.withContextClassLoader(Threads.scala:21) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$$anonfun$apply$1$$anonfun$apply$4.apply(Action.scala:129) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$$anonfun$apply$1$$anonfun$apply$4.apply(Action.scala:128) ~[play_2.11-2.3.7.jar:2.3.7]
+	at scala.Option.map(Option.scala:146) [na:na]
+	at play.api.mvc.Action$$anonfun$apply$1.apply(Action.scala:128) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$$anonfun$apply$1.apply(Action.scala:121) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.libs.iteratee.Iteratee$$anonfun$mapM$1.apply(Iteratee.scala:483) ~[play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at play.api.libs.iteratee.Iteratee$$anonfun$mapM$1.apply(Iteratee.scala:483) ~[play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at play.api.libs.iteratee.Iteratee$$anonfun$flatMapM$1.apply(Iteratee.scala:519) ~[play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at play.api.libs.iteratee.Iteratee$$anonfun$flatMapM$1.apply(Iteratee.scala:519) ~[play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at play.api.libs.iteratee.Iteratee$$anonfun$flatMap$1$$anonfun$apply$14.apply(Iteratee.scala:496) ~[play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at play.api.libs.iteratee.Iteratee$$anonfun$flatMap$1$$anonfun$apply$14.apply(Iteratee.scala:496) ~[play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at scala.concurrent.impl.Future$PromiseCompletingRunnable.liftedTree1$1(Future.scala:24) [na:na]
+	at scala.concurrent.impl.Future$PromiseCompletingRunnable.run(Future.scala:24) [na:na]
+	... 6 common frames omitted
+
+2016-04-21 18:22:29,868 - [INFO] - from play in main 
+Application started (Prod)
+
+2016-04-21 18:22:34,961 - [ERROR] - from play in play-akka.actor.default-dispatcher-11 
+Cannot invoke the action, eventually got an error: java.lang.NullPointerException
+
+2016-04-21 18:22:34,962 - [ERROR] - from application in play-akka.actor.default-dispatcher-11 
+
+
+! @6po722n7g - Internal server error, for (POST) [/v1/purchase/verify] ->
+
+play.api.Application$$anon$1: Execution exception[[NullPointerException: null]]
+	at play.api.Application$class.handleError(Application.scala:296) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.DefaultApplication.handleError(Application.scala:402) [play_2.11-2.3.7.jar:2.3.7]
+	at play.core.server.netty.PlayDefaultUpstreamHandler$$anonfun$3$$anonfun$applyOrElse$4.apply(PlayDefaultUpstreamHandler.scala:320) [play_2.11-2.3.7.jar:2.3.7]
+	at play.core.server.netty.PlayDefaultUpstreamHandler$$anonfun$3$$anonfun$applyOrElse$4.apply(PlayDefaultUpstreamHandler.scala:320) [play_2.11-2.3.7.jar:2.3.7]
+	at scala.Option.map(Option.scala:146) [na:na]
+	at play.core.server.netty.PlayDefaultUpstreamHandler$$anonfun$3.applyOrElse(PlayDefaultUpstreamHandler.scala:320) [play_2.11-2.3.7.jar:2.3.7]
+	at play.core.server.netty.PlayDefaultUpstreamHandler$$anonfun$3.applyOrElse(PlayDefaultUpstreamHandler.scala:316) [play_2.11-2.3.7.jar:2.3.7]
+	at scala.concurrent.Future$$anonfun$recoverWith$1.apply(Future.scala:344) [na:na]
+	at scala.concurrent.Future$$anonfun$recoverWith$1.apply(Future.scala:343) [na:na]
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:32) [na:na]
+	at play.api.libs.iteratee.Execution$trampoline$.execute(Execution.scala:46) [play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at scala.concurrent.impl.CallbackRunnable.executeWithValue(Promise.scala:40) [na:na]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete(Promise.scala:248) [na:na]
+	at scala.concurrent.Promise$class.complete(Promise.scala:55) [na:na]
+	at scala.concurrent.impl.Promise$DefaultPromise.complete(Promise.scala:153) [na:na]
+	at scala.concurrent.impl.Future$PromiseCompletingRunnable.run(Future.scala:23) [na:na]
+	at akka.dispatch.TaskInvocation.run(AbstractDispatcher.scala:41) [akka-actor_2.11-2.3.4.jar:na]
+	at akka.dispatch.ForkJoinExecutorConfigurator$AkkaForkJoinTask.exec(AbstractDispatcher.scala:393) [akka-actor_2.11-2.3.4.jar:na]
+	at scala.concurrent.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:260) [na:na]
+	at scala.concurrent.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1339) [na:na]
+	at scala.concurrent.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1979) [na:na]
+	at scala.concurrent.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:107) [na:na]
+Caused by: java.lang.NullPointerException: null
+	at com.edenicgames.gamedonia.api.controllers.PurchaseApi$$anonfun$verify$1.apply(PurchaseApi.scala:50) ~[classes/:na]
+	at com.edenicgames.gamedonia.api.controllers.PurchaseApi$$anonfun$verify$1.apply(PurchaseApi.scala:15) ~[classes/:na]
+	at play.api.mvc.ActionBuilder$$anonfun$apply$16.apply(Action.scala:433) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.ActionBuilder$$anonfun$apply$16.apply(Action.scala:432) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$.invokeBlock(Action.scala:556) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$.invokeBlock(Action.scala:555) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.ActionBuilder$$anon$1.apply(Action.scala:518) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$$anonfun$apply$1$$anonfun$apply$4$$anonfun$apply$5.apply(Action.scala:130) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$$anonfun$apply$1$$anonfun$apply$4$$anonfun$apply$5.apply(Action.scala:130) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.utils.Threads$.withContextClassLoader(Threads.scala:21) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$$anonfun$apply$1$$anonfun$apply$4.apply(Action.scala:129) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$$anonfun$apply$1$$anonfun$apply$4.apply(Action.scala:128) ~[play_2.11-2.3.7.jar:2.3.7]
+	at scala.Option.map(Option.scala:146) [na:na]
+	at play.api.mvc.Action$$anonfun$apply$1.apply(Action.scala:128) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$$anonfun$apply$1.apply(Action.scala:121) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.libs.iteratee.Iteratee$$anonfun$mapM$1.apply(Iteratee.scala:483) ~[play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at play.api.libs.iteratee.Iteratee$$anonfun$mapM$1.apply(Iteratee.scala:483) ~[play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at play.api.libs.iteratee.Iteratee$$anonfun$flatMapM$1.apply(Iteratee.scala:519) ~[play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at play.api.libs.iteratee.Iteratee$$anonfun$flatMapM$1.apply(Iteratee.scala:519) ~[play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at play.api.libs.iteratee.Iteratee$$anonfun$flatMap$1$$anonfun$apply$14.apply(Iteratee.scala:496) ~[play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at play.api.libs.iteratee.Iteratee$$anonfun$flatMap$1$$anonfun$apply$14.apply(Iteratee.scala:496) ~[play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at scala.concurrent.impl.Future$PromiseCompletingRunnable.liftedTree1$1(Future.scala:24) [na:na]
+	at scala.concurrent.impl.Future$PromiseCompletingRunnable.run(Future.scala:24) [na:na]
+	... 6 common frames omitted
+
+2016-04-22 09:14:23,894 - [INFO] - from play in main 
+Application started (Prod)
+
+2016-04-22 09:14:55,697 - [INFO] - from play in main 
+Application started (Prod)
+
+2016-04-22 09:14:55,759 - [INFO] - from play in main 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-22 09:15:03,339 - [ERROR] - from play in play-akka.actor.default-dispatcher-9 
+Cannot invoke the action, eventually got an error: java.lang.NullPointerException
+
+2016-04-22 09:15:03,351 - [ERROR] - from application in play-akka.actor.default-dispatcher-9 
+
+
+! @6pobf7emh - Internal server error, for (POST) [/v1/purchase/verify] ->
+
+play.api.Application$$anon$1: Execution exception[[NullPointerException: null]]
+	at play.api.Application$class.handleError(Application.scala:296) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.DefaultApplication.handleError(Application.scala:402) [play_2.11-2.3.7.jar:2.3.7]
+	at play.core.server.netty.PlayDefaultUpstreamHandler$$anonfun$3$$anonfun$applyOrElse$4.apply(PlayDefaultUpstreamHandler.scala:320) [play_2.11-2.3.7.jar:2.3.7]
+	at play.core.server.netty.PlayDefaultUpstreamHandler$$anonfun$3$$anonfun$applyOrElse$4.apply(PlayDefaultUpstreamHandler.scala:320) [play_2.11-2.3.7.jar:2.3.7]
+	at scala.Option.map(Option.scala:146) [na:na]
+	at play.core.server.netty.PlayDefaultUpstreamHandler$$anonfun$3.applyOrElse(PlayDefaultUpstreamHandler.scala:320) [play_2.11-2.3.7.jar:2.3.7]
+	at play.core.server.netty.PlayDefaultUpstreamHandler$$anonfun$3.applyOrElse(PlayDefaultUpstreamHandler.scala:316) [play_2.11-2.3.7.jar:2.3.7]
+	at scala.concurrent.Future$$anonfun$recoverWith$1.apply(Future.scala:344) [na:na]
+	at scala.concurrent.Future$$anonfun$recoverWith$1.apply(Future.scala:343) [na:na]
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:32) [na:na]
+	at play.api.libs.iteratee.Execution$trampoline$.execute(Execution.scala:46) [play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at scala.concurrent.impl.CallbackRunnable.executeWithValue(Promise.scala:40) [na:na]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete(Promise.scala:248) [na:na]
+	at scala.concurrent.Promise$class.complete(Promise.scala:55) [na:na]
+	at scala.concurrent.impl.Promise$DefaultPromise.complete(Promise.scala:153) [na:na]
+	at scala.concurrent.impl.Future$PromiseCompletingRunnable.run(Future.scala:23) [na:na]
+	at akka.dispatch.TaskInvocation.run(AbstractDispatcher.scala:41) [akka-actor_2.11-2.3.4.jar:na]
+	at akka.dispatch.ForkJoinExecutorConfigurator$AkkaForkJoinTask.exec(AbstractDispatcher.scala:393) [akka-actor_2.11-2.3.4.jar:na]
+	at scala.concurrent.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:260) [na:na]
+	at scala.concurrent.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1339) [na:na]
+	at scala.concurrent.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1979) [na:na]
+	at scala.concurrent.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:107) [na:na]
+Caused by: java.lang.NullPointerException: null
+	at com.edenicgames.gamedonia.api.controllers.PurchaseApi$$anonfun$verify$1.apply(PurchaseApi.scala:50) ~[classes/:na]
+	at com.edenicgames.gamedonia.api.controllers.PurchaseApi$$anonfun$verify$1.apply(PurchaseApi.scala:15) ~[classes/:na]
+	at play.api.mvc.ActionBuilder$$anonfun$apply$16.apply(Action.scala:433) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.ActionBuilder$$anonfun$apply$16.apply(Action.scala:432) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$.invokeBlock(Action.scala:556) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$.invokeBlock(Action.scala:555) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.ActionBuilder$$anon$1.apply(Action.scala:518) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$$anonfun$apply$1$$anonfun$apply$4$$anonfun$apply$5.apply(Action.scala:130) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$$anonfun$apply$1$$anonfun$apply$4$$anonfun$apply$5.apply(Action.scala:130) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.utils.Threads$.withContextClassLoader(Threads.scala:21) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$$anonfun$apply$1$$anonfun$apply$4.apply(Action.scala:129) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$$anonfun$apply$1$$anonfun$apply$4.apply(Action.scala:128) ~[play_2.11-2.3.7.jar:2.3.7]
+	at scala.Option.map(Option.scala:146) [na:na]
+	at play.api.mvc.Action$$anonfun$apply$1.apply(Action.scala:128) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$$anonfun$apply$1.apply(Action.scala:121) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.libs.iteratee.Iteratee$$anonfun$mapM$1.apply(Iteratee.scala:483) ~[play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at play.api.libs.iteratee.Iteratee$$anonfun$mapM$1.apply(Iteratee.scala:483) ~[play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at play.api.libs.iteratee.Iteratee$$anonfun$flatMapM$1.apply(Iteratee.scala:519) ~[play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at play.api.libs.iteratee.Iteratee$$anonfun$flatMapM$1.apply(Iteratee.scala:519) ~[play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at play.api.libs.iteratee.Iteratee$$anonfun$flatMap$1$$anonfun$apply$14.apply(Iteratee.scala:496) ~[play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at play.api.libs.iteratee.Iteratee$$anonfun$flatMap$1$$anonfun$apply$14.apply(Iteratee.scala:496) ~[play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at scala.concurrent.impl.Future$PromiseCompletingRunnable.liftedTree1$1(Future.scala:24) [na:na]
+	at scala.concurrent.impl.Future$PromiseCompletingRunnable.run(Future.scala:24) [na:na]
+	... 6 common frames omitted
+
+2016-04-22 09:15:29,737 - [INFO] - from play in main 
+Application started (Prod)
+
+2016-04-22 09:15:29,811 - [INFO] - from play in main 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-22 09:17:42,997 - [ERROR] - from play in play-akka.actor.default-dispatcher-9 
+Cannot invoke the action, eventually got an error: java.lang.NullPointerException
+
+2016-04-22 09:17:43,011 - [ERROR] - from application in play-akka.actor.default-dispatcher-9 
+
+
+! @6pobfgh1a - Internal server error, for (POST) [/v1/purchase/verify] ->
+
+play.api.Application$$anon$1: Execution exception[[NullPointerException: null]]
+	at play.api.Application$class.handleError(Application.scala:296) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.DefaultApplication.handleError(Application.scala:402) [play_2.11-2.3.7.jar:2.3.7]
+	at play.core.server.netty.PlayDefaultUpstreamHandler$$anonfun$3$$anonfun$applyOrElse$4.apply(PlayDefaultUpstreamHandler.scala:320) [play_2.11-2.3.7.jar:2.3.7]
+	at play.core.server.netty.PlayDefaultUpstreamHandler$$anonfun$3$$anonfun$applyOrElse$4.apply(PlayDefaultUpstreamHandler.scala:320) [play_2.11-2.3.7.jar:2.3.7]
+	at scala.Option.map(Option.scala:146) [na:na]
+	at play.core.server.netty.PlayDefaultUpstreamHandler$$anonfun$3.applyOrElse(PlayDefaultUpstreamHandler.scala:320) [play_2.11-2.3.7.jar:2.3.7]
+	at play.core.server.netty.PlayDefaultUpstreamHandler$$anonfun$3.applyOrElse(PlayDefaultUpstreamHandler.scala:316) [play_2.11-2.3.7.jar:2.3.7]
+	at scala.concurrent.Future$$anonfun$recoverWith$1.apply(Future.scala:344) [na:na]
+	at scala.concurrent.Future$$anonfun$recoverWith$1.apply(Future.scala:343) [na:na]
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:32) [na:na]
+	at play.api.libs.iteratee.Execution$trampoline$.execute(Execution.scala:46) [play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at scala.concurrent.impl.CallbackRunnable.executeWithValue(Promise.scala:40) [na:na]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete(Promise.scala:248) [na:na]
+	at scala.concurrent.Promise$class.complete(Promise.scala:55) [na:na]
+	at scala.concurrent.impl.Promise$DefaultPromise.complete(Promise.scala:153) [na:na]
+	at scala.concurrent.impl.Future$PromiseCompletingRunnable.run(Future.scala:23) [na:na]
+	at akka.dispatch.TaskInvocation.run(AbstractDispatcher.scala:41) [akka-actor_2.11-2.3.4.jar:na]
+	at akka.dispatch.ForkJoinExecutorConfigurator$AkkaForkJoinTask.exec(AbstractDispatcher.scala:393) [akka-actor_2.11-2.3.4.jar:na]
+	at scala.concurrent.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:260) [na:na]
+	at scala.concurrent.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1339) [na:na]
+	at scala.concurrent.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1979) [na:na]
+	at scala.concurrent.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:107) [na:na]
+Caused by: java.lang.NullPointerException: null
+	at com.edenicgames.gamedonia.api.controllers.PurchaseApi$$anonfun$verify$1.apply(PurchaseApi.scala:50) ~[classes/:na]
+	at com.edenicgames.gamedonia.api.controllers.PurchaseApi$$anonfun$verify$1.apply(PurchaseApi.scala:15) ~[classes/:na]
+	at play.api.mvc.ActionBuilder$$anonfun$apply$16.apply(Action.scala:433) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.ActionBuilder$$anonfun$apply$16.apply(Action.scala:432) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$.invokeBlock(Action.scala:556) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$.invokeBlock(Action.scala:555) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.ActionBuilder$$anon$1.apply(Action.scala:518) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$$anonfun$apply$1$$anonfun$apply$4$$anonfun$apply$5.apply(Action.scala:130) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$$anonfun$apply$1$$anonfun$apply$4$$anonfun$apply$5.apply(Action.scala:130) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.utils.Threads$.withContextClassLoader(Threads.scala:21) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$$anonfun$apply$1$$anonfun$apply$4.apply(Action.scala:129) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$$anonfun$apply$1$$anonfun$apply$4.apply(Action.scala:128) ~[play_2.11-2.3.7.jar:2.3.7]
+	at scala.Option.map(Option.scala:146) [na:na]
+	at play.api.mvc.Action$$anonfun$apply$1.apply(Action.scala:128) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$$anonfun$apply$1.apply(Action.scala:121) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.libs.iteratee.Iteratee$$anonfun$mapM$1.apply(Iteratee.scala:483) ~[play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at play.api.libs.iteratee.Iteratee$$anonfun$mapM$1.apply(Iteratee.scala:483) ~[play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at play.api.libs.iteratee.Iteratee$$anonfun$flatMapM$1.apply(Iteratee.scala:519) ~[play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at play.api.libs.iteratee.Iteratee$$anonfun$flatMapM$1.apply(Iteratee.scala:519) ~[play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at play.api.libs.iteratee.Iteratee$$anonfun$flatMap$1$$anonfun$apply$14.apply(Iteratee.scala:496) ~[play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at play.api.libs.iteratee.Iteratee$$anonfun$flatMap$1$$anonfun$apply$14.apply(Iteratee.scala:496) ~[play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at scala.concurrent.impl.Future$PromiseCompletingRunnable.liftedTree1$1(Future.scala:24) [na:na]
+	at scala.concurrent.impl.Future$PromiseCompletingRunnable.run(Future.scala:24) [na:na]
+	... 6 common frames omitted
+
+2016-04-22 09:21:04,979 - [ERROR] - from play in play-akka.actor.default-dispatcher-10 
+Cannot invoke the action, eventually got an error: java.lang.NullPointerException
+
+2016-04-22 09:21:04,981 - [ERROR] - from application in play-akka.actor.default-dispatcher-10 
+
+
+! @6pobg23ln - Internal server error, for (POST) [/v1/purchase/verify] ->
+
+play.api.Application$$anon$1: Execution exception[[NullPointerException: null]]
+	at play.api.Application$class.handleError(Application.scala:296) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.DefaultApplication.handleError(Application.scala:402) [play_2.11-2.3.7.jar:2.3.7]
+	at play.core.server.netty.PlayDefaultUpstreamHandler$$anonfun$3$$anonfun$applyOrElse$4.apply(PlayDefaultUpstreamHandler.scala:320) [play_2.11-2.3.7.jar:2.3.7]
+	at play.core.server.netty.PlayDefaultUpstreamHandler$$anonfun$3$$anonfun$applyOrElse$4.apply(PlayDefaultUpstreamHandler.scala:320) [play_2.11-2.3.7.jar:2.3.7]
+	at scala.Option.map(Option.scala:146) [na:na]
+	at play.core.server.netty.PlayDefaultUpstreamHandler$$anonfun$3.applyOrElse(PlayDefaultUpstreamHandler.scala:320) [play_2.11-2.3.7.jar:2.3.7]
+	at play.core.server.netty.PlayDefaultUpstreamHandler$$anonfun$3.applyOrElse(PlayDefaultUpstreamHandler.scala:316) [play_2.11-2.3.7.jar:2.3.7]
+	at scala.concurrent.Future$$anonfun$recoverWith$1.apply(Future.scala:344) [na:na]
+	at scala.concurrent.Future$$anonfun$recoverWith$1.apply(Future.scala:343) [na:na]
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:32) [na:na]
+	at play.api.libs.iteratee.Execution$trampoline$.execute(Execution.scala:46) [play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at scala.concurrent.impl.CallbackRunnable.executeWithValue(Promise.scala:40) [na:na]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete(Promise.scala:248) [na:na]
+	at scala.concurrent.Promise$class.complete(Promise.scala:55) [na:na]
+	at scala.concurrent.impl.Promise$DefaultPromise.complete(Promise.scala:153) [na:na]
+	at scala.concurrent.impl.Future$PromiseCompletingRunnable.run(Future.scala:23) [na:na]
+	at akka.dispatch.TaskInvocation.run(AbstractDispatcher.scala:41) [akka-actor_2.11-2.3.4.jar:na]
+	at akka.dispatch.ForkJoinExecutorConfigurator$AkkaForkJoinTask.exec(AbstractDispatcher.scala:393) [akka-actor_2.11-2.3.4.jar:na]
+	at scala.concurrent.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:260) [na:na]
+	at scala.concurrent.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1339) [na:na]
+	at scala.concurrent.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1979) [na:na]
+	at scala.concurrent.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:107) [na:na]
+Caused by: java.lang.NullPointerException: null
+	at com.edenicgames.gamedonia.api.controllers.PurchaseApi$$anonfun$verify$1.apply(PurchaseApi.scala:50) ~[classes/:na]
+	at com.edenicgames.gamedonia.api.controllers.PurchaseApi$$anonfun$verify$1.apply(PurchaseApi.scala:15) ~[classes/:na]
+	at play.api.mvc.ActionBuilder$$anonfun$apply$16.apply(Action.scala:433) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.ActionBuilder$$anonfun$apply$16.apply(Action.scala:432) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$.invokeBlock(Action.scala:556) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$.invokeBlock(Action.scala:555) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.ActionBuilder$$anon$1.apply(Action.scala:518) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$$anonfun$apply$1$$anonfun$apply$4$$anonfun$apply$5.apply(Action.scala:130) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$$anonfun$apply$1$$anonfun$apply$4$$anonfun$apply$5.apply(Action.scala:130) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.utils.Threads$.withContextClassLoader(Threads.scala:21) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$$anonfun$apply$1$$anonfun$apply$4.apply(Action.scala:129) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$$anonfun$apply$1$$anonfun$apply$4.apply(Action.scala:128) ~[play_2.11-2.3.7.jar:2.3.7]
+	at scala.Option.map(Option.scala:146) [na:na]
+	at play.api.mvc.Action$$anonfun$apply$1.apply(Action.scala:128) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$$anonfun$apply$1.apply(Action.scala:121) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.libs.iteratee.Iteratee$$anonfun$mapM$1.apply(Iteratee.scala:483) ~[play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at play.api.libs.iteratee.Iteratee$$anonfun$mapM$1.apply(Iteratee.scala:483) ~[play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at play.api.libs.iteratee.Iteratee$$anonfun$flatMapM$1.apply(Iteratee.scala:519) ~[play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at play.api.libs.iteratee.Iteratee$$anonfun$flatMapM$1.apply(Iteratee.scala:519) ~[play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at play.api.libs.iteratee.Iteratee$$anonfun$flatMap$1$$anonfun$apply$14.apply(Iteratee.scala:496) ~[play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at play.api.libs.iteratee.Iteratee$$anonfun$flatMap$1$$anonfun$apply$14.apply(Iteratee.scala:496) ~[play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at scala.concurrent.impl.Future$PromiseCompletingRunnable.liftedTree1$1(Future.scala:24) [na:na]
+	at scala.concurrent.impl.Future$PromiseCompletingRunnable.run(Future.scala:24) [na:na]
+	... 6 common frames omitted
+
+2016-04-22 09:22:24,608 - [ERROR] - from play in play-akka.actor.default-dispatcher-11 
+Cannot invoke the action, eventually got an error: java.lang.NullPointerException
+
+2016-04-22 09:22:24,611 - [ERROR] - from application in play-akka.actor.default-dispatcher-11 
+
+
+! @6pobg6hge - Internal server error, for (POST) [/v1/purchase/verify] ->
+
+play.api.Application$$anon$1: Execution exception[[NullPointerException: null]]
+	at play.api.Application$class.handleError(Application.scala:296) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.DefaultApplication.handleError(Application.scala:402) [play_2.11-2.3.7.jar:2.3.7]
+	at play.core.server.netty.PlayDefaultUpstreamHandler$$anonfun$3$$anonfun$applyOrElse$4.apply(PlayDefaultUpstreamHandler.scala:320) [play_2.11-2.3.7.jar:2.3.7]
+	at play.core.server.netty.PlayDefaultUpstreamHandler$$anonfun$3$$anonfun$applyOrElse$4.apply(PlayDefaultUpstreamHandler.scala:320) [play_2.11-2.3.7.jar:2.3.7]
+	at scala.Option.map(Option.scala:146) [na:na]
+	at play.core.server.netty.PlayDefaultUpstreamHandler$$anonfun$3.applyOrElse(PlayDefaultUpstreamHandler.scala:320) [play_2.11-2.3.7.jar:2.3.7]
+	at play.core.server.netty.PlayDefaultUpstreamHandler$$anonfun$3.applyOrElse(PlayDefaultUpstreamHandler.scala:316) [play_2.11-2.3.7.jar:2.3.7]
+	at scala.concurrent.Future$$anonfun$recoverWith$1.apply(Future.scala:344) [na:na]
+	at scala.concurrent.Future$$anonfun$recoverWith$1.apply(Future.scala:343) [na:na]
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:32) [na:na]
+	at play.api.libs.iteratee.Execution$trampoline$.execute(Execution.scala:46) [play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at scala.concurrent.impl.CallbackRunnable.executeWithValue(Promise.scala:40) [na:na]
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete(Promise.scala:248) [na:na]
+	at scala.concurrent.Promise$class.complete(Promise.scala:55) [na:na]
+	at scala.concurrent.impl.Promise$DefaultPromise.complete(Promise.scala:153) [na:na]
+	at scala.concurrent.impl.Future$PromiseCompletingRunnable.run(Future.scala:23) [na:na]
+	at akka.dispatch.TaskInvocation.run(AbstractDispatcher.scala:41) [akka-actor_2.11-2.3.4.jar:na]
+	at akka.dispatch.ForkJoinExecutorConfigurator$AkkaForkJoinTask.exec(AbstractDispatcher.scala:393) [akka-actor_2.11-2.3.4.jar:na]
+	at scala.concurrent.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:260) [na:na]
+	at scala.concurrent.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1339) [na:na]
+	at scala.concurrent.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1979) [na:na]
+	at scala.concurrent.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:107) [na:na]
+Caused by: java.lang.NullPointerException: null
+	at com.edenicgames.gamedonia.api.controllers.PurchaseApi$$anonfun$verify$1.apply(PurchaseApi.scala:50) ~[classes/:na]
+	at com.edenicgames.gamedonia.api.controllers.PurchaseApi$$anonfun$verify$1.apply(PurchaseApi.scala:15) ~[classes/:na]
+	at play.api.mvc.ActionBuilder$$anonfun$apply$16.apply(Action.scala:433) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.ActionBuilder$$anonfun$apply$16.apply(Action.scala:432) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$.invokeBlock(Action.scala:556) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$.invokeBlock(Action.scala:555) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.ActionBuilder$$anon$1.apply(Action.scala:518) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$$anonfun$apply$1$$anonfun$apply$4$$anonfun$apply$5.apply(Action.scala:130) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$$anonfun$apply$1$$anonfun$apply$4$$anonfun$apply$5.apply(Action.scala:130) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.utils.Threads$.withContextClassLoader(Threads.scala:21) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$$anonfun$apply$1$$anonfun$apply$4.apply(Action.scala:129) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$$anonfun$apply$1$$anonfun$apply$4.apply(Action.scala:128) ~[play_2.11-2.3.7.jar:2.3.7]
+	at scala.Option.map(Option.scala:146) [na:na]
+	at play.api.mvc.Action$$anonfun$apply$1.apply(Action.scala:128) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.mvc.Action$$anonfun$apply$1.apply(Action.scala:121) ~[play_2.11-2.3.7.jar:2.3.7]
+	at play.api.libs.iteratee.Iteratee$$anonfun$mapM$1.apply(Iteratee.scala:483) ~[play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at play.api.libs.iteratee.Iteratee$$anonfun$mapM$1.apply(Iteratee.scala:483) ~[play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at play.api.libs.iteratee.Iteratee$$anonfun$flatMapM$1.apply(Iteratee.scala:519) ~[play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at play.api.libs.iteratee.Iteratee$$anonfun$flatMapM$1.apply(Iteratee.scala:519) ~[play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at play.api.libs.iteratee.Iteratee$$anonfun$flatMap$1$$anonfun$apply$14.apply(Iteratee.scala:496) ~[play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at play.api.libs.iteratee.Iteratee$$anonfun$flatMap$1$$anonfun$apply$14.apply(Iteratee.scala:496) ~[play-iteratees_2.11-2.3.7.jar:2.3.7]
+	at scala.concurrent.impl.Future$PromiseCompletingRunnable.liftedTree1$1(Future.scala:24) [na:na]
+	at scala.concurrent.impl.Future$PromiseCompletingRunnable.run(Future.scala:24) [na:na]
+	... 6 common frames omitted
+
+2016-04-22 10:15:45,974 - [INFO] - from play in main 
+Application started (Prod)
+
+2016-04-22 10:15:46,046 - [INFO] - from play in main 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+
+2016-04-22 14:36:43,076 - [INFO] - from play in Connect Thread 
+Application started (Prod)
+
+2016-04-22 14:36:43,187 - [INFO] - from play in Connect Thread 
+Listening for HTTP on /0:0:0:0:0:0:0:0:8181
+

@@ -4,5 +4,5 @@ gameId=de8e7bef-5f61-4c3f-8724-17b1ccb5cf47
 masterApiKey=6650117d-d1da-4ad3-903c-54bd2f1eadd8
 proxyPort=8181
 secret=751a5f58ede4e4590895b7fbc9509e0c
-structure=[{"name"\:"comdos","collection"\:"","trigger"\:"util","filename"\:"comdos.js","md5_checksum"\:"2bd7368bfe139d8fcee23ebd816294d5","package_name"\:null,"local_package_name"\:null,"local_name"\:null}]
+structure=[{"name"\:"testpre","collection"\:"test1","trigger"\:"presave","filename"\:"testprescripthook.js","md5_checksum"\:"adasdasdasdasd","package_name"\:null,"local_package_name"\:null,"local_name"\:null},{"name"\:"testpost","collection"\:"test1","trigger"\:"postsave","filename"\:"testpostscripthook.js","md5_checksum"\:"adasdasdasdasd","package_name"\:null,"local_package_name"\:null,"local_name"\:null}]
 url=http\://localhost\:8080/v1
